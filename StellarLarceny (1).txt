@@ -1,0 +1,1558 @@
+----------------------------------
+------ PRELIMINARY TIMELINE ------
+----------------------------------
+2050: Multi-national Nuclear Holocaust
+2065: Destruction of CDC compounds, releasing virulent
+psychological/decaying  virus, called the Zombie Plague.
+2125: End of Zombie Plague.
+2140: Nation-States Annihilations 5% of countries remain. Steampunk influences.
+2155: Planetary Colonization: Cyberpunk/Cybernetics
+2180: Mining Revolution/ Ancient Alien Technology Discovery.
+2225: Pure Science Advancements: Anti-Gravity, Light Deflection,
+Plasma, Antimatter.
+2250: New technology in Antimatter evolves humankind, cybernetic
+enhancements allow psychic powers that carry over through children.
+2300: Enslavement of Psychic users to do heavy industrial mining work;
+kept away from main population.
+2350: Enormous insurrection of Psychic Users, calling themselves
+Psymancers. The name sticks.
+2400: First alien encounter, near apocalypse by Krellath race.
+2450: Rediscovery of religion, loss of pre-colonial history and Earth. Religion is still
+  considered minor and superstitious, but it is still around.
+2500: Helpful alien imperial race, heavy in psychic abilities, saves
+Humankind from the reptilians.
+2550: Human paranoia resurfaces to devastate lithe helpful race. Human
+population redoubled.
+2600: Renewal of Humankind, enemies annihilated through the use of
+psychic cybernetics coupled with antimatter bombs sent through
+wormholes. Wormhole use is outlawed after Galaxy-wide outrage by various races.
+2650: Introduction of Extra-dimensional/Wormhole threat, Psymancers blamed. Karma on
+sending bombs through wormholes?
+2665: Creation of Celestialism.
+2675: Game Plot Start.
+
+--------------------------
+------- PLOT -------------
+--------------------------
+-Tutorial: Starts with PC waking up groggily to rogues, with guns and strange symbols, that 
+   panic when they see you coming to. PC freaks out and grabs their hidden slug pistol and 
+   starts blasting his way out, shooting of cuttthroats with tutorial presented as his own 
+   thoughts. Cutthroats use hand signals and strange gutterspeak, with the player finding a 
+   few datavids that introduce the setting. A realization dawns on the player that the 
+   cutthroats are really just ragged militia members and they yell at you to stop. As you 
+   get arrested, an alien ambushes the caravan with cascading plasma explosions. 
+-Act 1 Boss Mercenary Lord - Player hides and does jobs to save up for a shuttle offworld.
+  End of Privateer/Mercenary Arc, Merc Lord wants the cloaking technology stolen during a job
+  he contracted you for. Had friends in Pirates, dies with tracer activated.
+-Act 2 Boss Pirate Lord - Massive Power struggle infighting war triggered by PC manipulating
+  Pirate Captains and taking their revenues away through trading. Culminates in a race to 
+  defuse the Pirate's Supernova Bomb. 
+-Act 3 Boss CONSORTIUM - Infiltration of stock markets, clashes with Consortium forces and
+  Praetorians. Consortium is planning to trigger an invasion so they can direct the invasion
+  forces. Ends with the destruction of the rebel Consortium.
+-Act 4 Player's Dealings come to a head and wormhole technology is sold and captured by the
+  Nex. Boss is the Nex's AI....kills first party (except main pc) sent to defeat him by 
+  detonating Nex PC, party wonders exactly how long the charge was active. Boss defies their
+  question, refuses to answer. "That secret will just have to die with you..."
+  Inactives have to replace others. Shared xp shouldnt be a problem, auto-assign gear if 
+  neglected?
+
+--------------------------
+------- DIALOGUE ---------
+--------------------------
+
+### THE DAZZLER
+VINCENT: Is that a ... PINK Scope?
+KELXI: What, you mean this Pink Scope? 
+<*** KELXI blinds VINCENT with the Dazzler Scope ***>
+VINCENT: Ahh! What the HELL!? Somebody shoot her!
+<* Blinds the other 2 party members *>
+First Party Member: Ahhh! FUCK!
+Second Party Member: Haha. Best. Blind-Proof Augmetic. Ever.
+<*** VINCENT Groans ***>
+VINCENT: You win this round, Starlight Starbright.
+
+--------------------------
+------- GLOSSARY ---------
+--------------------------
+    --------
+    TERMS:
+    --------
+    GALANET -- Term used for Internet, all citizens of DIGITAL RIGHTS economies required to have
+      an implant for this at their expense.
+    CODICS -- Term used for the marriage of Mathematics, Physics, and Computer Science in the
+      23rd (??) Century.
+    PSYMANCER -- Psychic Users, which rose to prominence in the 23rd to 24th century against
+      bigotry and oppression. 
+    PSYMANCER INSANITY -- Extensive Psionic power use can cause insanity in the user, which
+      is reported to be hearing malicious voices. The reports of an extradimensional entity
+      possessing them is dismissed as superstitious rumor, but is true.
+    CELESTIALISM-- The new faith centered around creation of the universe and its
+      focus on the dwindling of Celestial Objects, either natural or unnatural as fate. It
+      calls believers to oppose new technologies that tear the fabric of spacetime. The 
+      Time Agents are silent supporters.
+  -----------
+    DEVICES:
+  -----------
+    DATASLATE -- A reactive, thin screen which is carried around and performs a wide number
+      of Codic and Analysis functions.
+    CHRONOMETER: A device used for the detection and analysis of Time Events. A forbidden 
+      device by the Time Agents.
+    VITAREGULATOR: A device used to detect life signs and regulate respiratory and 
+      circulatory functions to alleviate symptoms. Advanced Functions include Immune System
+      boosting/decreasing, and amplifying/reducing brain activity.
+    PSYVISOR: Detects heavy psionic activity, and is found to be able to identify the  
+      extradimensional entities that cause insanity and voices.
+    ROBOTIC SERVANT: An ALTHREN device, this robot performs several medical functions and can
+      disperse a knockout gas agent that works on all races.
+    AEROJECT: A small medical device that inserts medicine into a target through the use of a
+      very focused jet of air from an implant in the medical caregiver's fore-finger.
+
+    --------
+    WEAPONS:
+    --------
+    SLUG WEAPONS -- High-Velocity solid projectiles used throughout history, killing trillions.  
+    FRAG WEAPONS -- Anything that breaks up and spreads shrapnel fragments into targets.
+      Highly dangerous against unarmored targets, moderately dangerous against 
+    FLECHETTE WEAPONS -- Energy projectiles that pass into and manifest physicality and 
+      explode within targets. Weak to shields, Extremely dangerous against Heavy Armor.
+    PLASMA WEAPONS -- Sun Energy that requires constant reactions to maintain, heavy dmg to 
+      every form of armor/shielding. Rare and expensive, second to only the NEX energy 
+      weapons.
+    FISSION WEAPONS -- Nuclear devices, now extremely compact and very destructive, its only
+      downside is the risk in using them. 
+    FLAME WEAPONS -- New accelerants enable these weapons to create living floods of flame,
+      that can melt all but the most flameproof metals.
+    MICROWAVES -- Breaks down targets with miniature radiation waves. Weak against 
+      shielding and very weak against armor.
+    PULSE WEAPONS -- Technology that resembles explosive weapons, but uses waves of undercurrent
+      concussive force blasts to break down matter just before exploding, with each wave passing 
+      through the target amplifying the explosion.
+    DITCHDIGGER -- A common implement during the Zombie Apocalypse, this weapon is a simple
+      splicing of a shovel with a heavy double-bladed axe on the other end, weighted against 
+      the shovel end. A versatile and basic tool, it lasted through the Steampunk Eras and 
+      beyond, especially on more primal worlds.
+    QUANTUM MISSILES AND EXPLOSIVES: Missiles that are extremely hard to shoot down and change
+      quantum states while in transit, hence the name. Are able to pack 2x the explosive 
+      charge.
+    NEEDLER: A form of Flechette mixed with a projectile weapon instead of explosvies that is
+      very compact and easy to hide, and can get through heavy armor but dont get through 
+      shields.
+    SYMBIOTE LAUNCHERS: Guns that launch symbiotes that can be large and claw at the face,
+      or small and burrow into the recipients skin and disable them by itching scratching 
+      and terror.
+    LIVING NETS: Nets made of insectoid organisms that constrict and disable targets easily.
+    ACID: Projectile weapons that blast targets with corrosive acid and poison, easily 
+      melting through any armour.
+    PSIONIC DEVASTATORS: Incredible damage against shields and armour, living symbiote 
+      apparatus only carried by the most powerful Psymancers.
+    PSYCANNON: ALTHREN have learned how to distill psionic energies into crystals which can
+      be processed by Pulse Energy to disable Psymancers while annihilating anything nearby.
+    ION Weapons: Fires Ions that disable enemy cybernetics, robots and electronics.
+    QUANTUM MINES: An ALTHREN technology that helps to hide mines by blinking in and out
+      of time and are impossible to hit. 
+    OCULARSCOPE: An ALTHREN technology that can switch vision modes to all different 
+      spectrums of light.
+    PHASEBLADE: An ALTHREN technology, this sword is half-spear, half-sword, and can phase 
+      through solid objects into the target.
+    SONIC: High-pitched weapons using sound that incapacitate anyone with earshot and damage 
+      the target significantly more.
+    PULSE LASER: Fires Lasers along a guiding laser repeatedly for less damage individually.
+    PULSE PLASMA: Fires Plasma Blasts along a guiding laser repeatedly for less damage 
+      individually.
+    RAILGUN: Electrically-Powered Ballistic weapon that fires projectiles accelerated to hit 
+      any target miles away.
+    SEISMIC: High-Powered Sonic weapon that cause minor localized seismic events, throwing 
+      the target and all targets around it into the ground, very costly timewise.
+    MICROWAVES: Minor electromagnetic radiation with low wavelengths that incite dialetic 
+      heating in the target, burning their skin , water absorbs heat thru dialetic heating, non-lethal
+    DISRUPTOR: A much more powerful laser weapon, a disruptor is a highly dangerous, albeit 
+      shorter range weapon, with unpredictable accuracy and varying levels of drain on each 
+      shot. Its unpredictability make it less popular, but still effective in the right 
+      situation.
+    CRYOBLASTER: A useful weapon for those dealing with sensitive "cargo", the Cryoblaster 
+      can freeze a target temporarily, the more the beam is fired on the target, the longer
+      the freeze will last. It is tricky to permanently freeze a target, as the risk of 
+      permanent breakage increases with every second shot at the target.
+    TRACTOR BEAM: A ship or hand-held device that will form a gravity well around the target,
+      keeping it from moving.
+    SHOCKWAVE RIFLE: A large weapon that is used to fire massive shockwaves at a target, 
+      knocking all down. Its chargeup time is well above average.
+    BLAZE STAFF: A staff that emits a bright beam down a targeting laser that erupts in a 
+      fiery explosion once it reaches its target.
+    SIPHON GRASP: A device wrapping around the hand, it drains the targets energy through a
+      multi-elemental burst of intense heat followed by electricity, followed by a frigid
+      chill, while simultaneously generating electrical pulses in the user to heighten their
+      adrenaline.
+    STASIS FIELDS: A stasis field is an advanced coma inciting technology which drains its
+      considerable power in one shot, but many cybernetics can nullify this, and the target
+      will awaken if they suffer too much pain.
+    MINIBOTS: Miniature robots that use weapons considerable for their size, and use their
+      small stature to their advantage to sneak behind enemies, and attack in packs.
+    CHAIN LASER MINIGUN: A highly valued weapon, this bulky weapon can overheat in a few 
+      seconds, and is usually worth it to destroy your enemies in a hail of searing lasers.
+    SHORT DOUBLE-BARRELLED BUCKSHOT PISTOL: Deceptively powerful for its size, this weapon
+      is easily the most sought-after solid shot weapon on lesser advanced worlds, allowing
+      the full power of the shotgun to be used in an even shorter range.
+    ANTI-PHASE RIFLE: A highly advanced weapon, this is favored by the rich and paranoid. It
+      allows the user to shoot and deny phasing opponents their ethereal skills.
+    TRIPLE/QUAD BARREL RIFLE: This weapon can shoot four shots in very rapid succession or in
+      tandem, providing excellent long-range cover fire. Decreases accuracy on each shot.
+    BLINK GUN: A very chaotic weapon, this gun will teleport anybody it is fired at a random 
+      distance and direction away from the caster. Proximity affects the variation heavily.
+    MAGNETIC GUN: A weapon that fires magnetic force mixed with a concussive explosion that
+      knocks enemies back and keeps heavier targets pinned down entirely.
+    MICROFILAMENT BLADE: Any bladed weapon with ceramic polymers mixed in with hard 
+      gemstones with the metal to allow for an expensive combat solution, but one worth its 
+      weight.
+    HOLOMISSILE LAUNCHER: An exotic missile launcher that fires decoys to specifically draw
+      the attention of missile defense systems. 2 decoys and 3 missiles fired per salvo.
+      Takes a very long time to reload.
+    LASHERS: Difficult to weild, these whips have a small power core which conducts 
+      electricity along the metallic whips and allows for ranged electrocution with more 
+      accuracy and safety than most weapons.
+    BOW: A simple, beautiful bow. Good for silent kills against unarmored targets.
+    CROSSBOW: A simple, square crossbow. Good for spontaneous silent kills against lightly
+      armored targets.
+    MECHANIZED BOW: A bow that makes loading arrows extremely light and effortless.
+    REPEATER CROSSBOW: A crossbow that fires multiple bolts in rapid succession.
+    COMPOSITE BOW: A bow requiring great physical strength to fire, can penetrate light 
+      armor.
+    COMPRESSED CROSSBOW: A crossbow with heavy reinforcement mechanics, firing a bolt at 
+      extremely high speeds, puncturing light armor with ease.
+    PLASMA CASTER: A highly advanced modification to a bow, allowing plasma arrows to be
+      fired, exploding and burning upon impact.
+    RAILBOW: A highly advanced modification to the crossbow, this allows bolts to fire and
+      penetrate multiple targets with devastating effect.
+    
+
+WEAPON ACCESSORIES: 
+    DAZZLER: This attachment shines light of every Electromagnetic spectrum to temporarily
+      dazzle the target, hence the name. Any enemy with no eyes or light-resistant eyegear
+    BAYONET ATTACHMENT: A weapon carried over from ancient human history, this weapon allows
+      the shooter to switch to melee in a heartbeat, turning any rifle into a heavy spear.
+    ANGULAR BARREL/SIGHT: A strange modification to a weapon to allow you to shoot around 
+      corners when you wish to remain hidden with ease.
+    TACTICAL LASER SIGHT: 
+    TACTICAL FLASHLIGHT: A low power light that allows your
+    SMOOTH GRIP: A minimally useful grip that lessens recoil slightly.
+    TEXTURED GRIP: A solid grip that helps to reduce recoil moderately.
+    ROUGH GRIP: A good grip that reduces recoil significantly.
+    HARD GRIP: A grip that is almost impossible to let slip out of your fingers, this
+      reduces recoil by a large amount.
+    SMOOTH FOREGRIP: Allows for the rifle to be steadied, reducing recoil but reducing 
+      overall accuracy slightly.
+    TEXTURED FOREGRIP:Allows for the rifle to be steadied, reducing recoil but reducing 
+      overall accuracy moderately.
+    ROUGH FOREGRIP:Allows for the rifle to be steadied, reducing recoil but reducing 
+      overall accuracy significantly.
+    HARD FOREGRIP:Allows for the rifle to be steadied, reducing recoil but reducing 
+      overall accuracy greatly.
+    BUTT STOCK: A modified end of the rear of the rifle, extended and hardened to allow for
+      severely hard strikes equalling any normal bludgeon in smashing capability.
+    HARD BUTT STOCK: A modified end of the rear of the rifle, extended and hardened to allow for
+      severely hard strikes equalling any normal bludgeon in smashing capability.
+    VICIOUS BUTT STOCK: A modified end of the rear of the rifle, extended and hardened to allow for
+      severely hard strikes equalling any normal bludgeon in smashing capability.
+    FOCUSED PRECISION STOCK: A modified end of the rear of the rifle, entended and filed to 
+      allow for very precise shots.
+    CLEAR PRECISION STOCK: A modified end of the rear of the rifle, entended and filed to 
+      allow for incredibly precise shots.
+    SHARP PRECISION STOCK: A modified end of the rear of the rifle, entended and filed to 
+      allow for the most precise shots possible.
+    RACK EXTENDER: This attachment for shotguns doubles their capacity, and more than doubles 
+      their effectiveness.
+    AMMO BARREL EXTENDER: A large barrel of ammo available for certain weapons, this will
+      make any gun an excellent support weapon.
+    CLIP EXTENDER: Allows for more ammo per clip in smaller guns.
+    CLIP LOADER: Allows faster reload animations.
+    BIPOD: Allows for an extremely stable sniper rifle to become even more deadly, reducing
+      recoil to 0, only useful when stationary and hidden.
+    HANDRAIL: Allows longer rifles to be gripped extremely steadily without the use of a 
+      foregrip. Increases aiming speed and reduces accuracy.
+    SMALL QUIVER: For the discerning retro archer, this allows you to hold more arrows.
+    MEDIUM QUIVER: For the discerning retro archer, this allows you to hold more arrows.
+    LARGE QUIVER: For the discerning retro archer, this allows you to hold more arrows.
+    EXTENDED BARREL: Increases the range of rifles slightly.
+    LONG BARREL: Increases the range of rifles moderately.
+    SNIPER BARREL: Increases the range of rifles greatly.
+    HEAVY BARREL: Increases shot damage slightly, reducing range.
+    SUPER-HEAVY BARREL: Increases shot damage moderately, reducing range.
+    MEGA BARREL: Increases shot damage greatly, reducing range.
+    SILENCER: Reduces flash and noise greatly.
+    FLASHY BARREL: A barrel that changes the muzzle flash, for flash more than function.
+    SMALL SHOTGUN CHOKE: Restricts shot spread on shotguns only, increasing accuracy 
+      slightly.
+    TIGHT SHOTGUN CHOKE: Restricts shot spread on shotguns only, increasing accuracy 
+      moderately.
+    VICE SHOTGUN CHOKE: Restricts shot spread on shotguns only, increasing accuracy 
+      greatly.
+    IRONSIGHT: Gun sight that allows for the most rapid target acquisition.
+    RED DOT SIGHT: Gun sight that allows for rapid target acquisition with sight assistance.
+    MEDIUM SCOPE: Gun scope that allows for moderate target acquisition with a crosshair for
+      greater sight assistance. 2X Zoom.
+    LONG SCOPE: Gun scope that allows for slow, long-range targeting acquisition. 2/4/8X Zoom.
+    LIGHT ENHANCEMENT SCOPE: A great sight-assistance scope, enhances all light.
+    INFRARED SCOPE: A powered scope that shows heat signatures, very powerful assistance.
+    ULTRAVIOLET SCOPE: A powered scope that shows ultraviolet EM light, extremely powerful assistance.
+    GUNSLING: Prevents weapon disarm.
+    
+--------------------------
+--------- ARMOR ----------
+--------------------------
+    REPULSOR: Advanced Armor Accessory that fires a short-ranged defensive blast at the 
+      closest target.
+    HAZARD ARMOR: A suit of light armour mixed with the best anti-viral and radiation 
+      insulation available.
+    DEFLECTOR: Light Prism that actively bends all incoming lasers and rays.
+    EXOSKELETON: This is a very expensive piece of armor which requires advanced training to 
+      use, and allows the user to feel almost no exertion when performing strength-based
+      tasks. The level of protection is minimal since most try to blindside the user due to
+      its low mobility.
+    FIBER ARMOR: Provides Slashing, Piercing, and Blunt Resistances.
+    FLAK ARMOR: Provides Explosive and Piercing Resistances.
+    REFLECTIVE ARMOR: Provides Universal Energy and Slashing Resistances.
+    ABSORBTION ARMOR: Provides Blunt and Electrical Resistances.
+    THERMAL ARMOR: Provides Plasma and Heat Resistances.
+    INSULATED ARMOR: Provides Cryo and Electrical Resistances.
+    SOLDIER ARMOR: Provides all Physical and Electrical Resistances.
+    FIELD ARMOR: Provides all Physical, Electrical, Fire Resistances.
+    BATTLE ARMOR: Provides all Physical, Electrical, Fire, Cryo Resistances.
+    PRAETORIAN ARMOR: Provides all armor resistances, increases strength and fortitude,
+      reduces movement slightly.
+    JUGGERNAUT ARMOR: Provides all armor resistances, increases strength and fortitude,
+      reduces movement significantly.
+    QUASAR ARMOR: Provides all armor resistances, increases strength and fortitude,
+      reduces movement the most.
+    CIVILIAN HAT: A hat protecting only against good hair and brisk winds.
+    WINTER HAT:
+    SKI HAT/MASK:
+    LEATHER HELMET:
+    FLAK HELMET:
+    REFLEXIVE HELMET:
+    GAS MASK:
+    EXOTIC HELMET:
+    FULL HELMET:
+    BATTLE HELMET:
+    INTIMIDATING HELMET:
+    TERROR HELMET:
+    DOOM HELMET:
+    MONUMENT HELMET:
+    ENORMOUS HELMET:
+    INFINITY HELMET:
+    CLOTH GLOVES:
+    LEATHER GLOVES:
+    WORK GLOVES:
+    HAZARD GLOVES:
+    BEJEWELED GLOVES:
+    BRAWLER'S GLOVES:
+    GIANT'S GLOVES:
+    MASSIVE GLOVES:
+    SINGULARITY GLOVES:
+    CLOTH BELT: Protects your dignity.
+    LEATHER BELT: Protects and increases carrying capacity slightly.
+    METAL BELT: Protects and increases carrying capacity significantly.
+    TACTICAL BELT: Almost enough pouches. Protects and increases carrying capacity 
+      greatly.
+    RIFLE SASH:
+    SHOTGUN SASH:
+    TACTICAL SASH:
+    SUNGLASSES:
+    TELESCOPIC GLASSES:
+    GOGGLES:
+    TELESCOPIC GOGGLES:
+    IR MONOCLE:
+    UV MONOCLE:
+
+    -----------------------------
+    ---- CYBERNETIC IMPLANTS ----
+    -----------------------------
+    
+    -----------------------------
+    ---- THROWN ITEMS -----------
+    -----------------------------
+    THROWING KNIVES:
+    THROWING AXES:
+    FLAMING KNIVES:
+    THUNDER AXES:
+    THROWING DISC STAR:
+    ACID-LACED THROWING DISC STAR:    
+    FRAG GRENADE: Moderate Piercing damage to up to 2 enemies.
+    THERMAL GRENADE: Medium-High Fire damage to up to 3 enemies. Sets them on fire.
+    PLASMA GRENADE: Medium-High Plasma/Fire damage to 4 enemies. Lowers their fire defense.
+    ANTI-GRAVITY GRENADE: Explodes with moderate damage, lifting up to 5 enemies in the air 
+      giving a bonus to all damage done to them, and then slams them into the ground for 
+      minor damage.  
+    ANTI-MATTER GRENADE: The most dangerous handheld explosive, this is a weapon of the 
+      desperate and deranged. Does extreme damage to up to 6 enemies.
+
+    -----------------------------
+    ---- MISCELLANEOUS ITEMS ----
+    -----------------------------
+
+--------------------------
+-------- WORLDS ----------
+--------------------------
+  SHALOK: ALTHREN Homeworld
+    BUILDINGS: Light Blue/Green Moonlamps, White-Gold roads, Tall Silver Towers.
+    TERRAIN: Hills, Plains, Lakes, Deserts.
+    TECH: Ion weapons, Quantum Mines, Psycannon, Ocularscope, Phaseblade, Robotic Servant.
+    ISSUES: Artificial Intelligence, Time Crimes, Psymancers, Intelligence vs. Stupidity.
+    SPACECRAFT: Best lasers. 1) Slicer 2) Penetrator 3) Impaler 4) Perforator 
+    SPACE: Laser Turrets and Quantum Mines. No Fly Zone. Blue Moon and Green Moon.
+    ECONOMY: Technocracy.
+    TACTICS: Overthinking and outmaneuvering opponents, prideful and over
+  METHUSELAH: OLD ONES Homeworld
+    BUILDINGS: Ruined Spherical Buildings, Smoky used to be polished ivory roads. 
+      Destroyed Saucer UFO's.
+    TERRAIN: Dead World, Multitudes of Craters and Plasma Burns.
+    TECH: Experts in Gravitational and Dark Matter and Shields and Teleportation.
+    ISSUES: Extinction, Legacy, Death to Avarice/Greed, Creation, God.
+    SPACECRAFT: 1) Saucer 2) Rifter 3) Planetoid 4) Quasar
+    SPACE: Ruined Space Stations, Time Rifts, Ship Debris, Massive Planet, 13 Moons.
+    ECONOMY: Technocracy.
+    TACTICS: Supreme Technology.
+  RAHL: THRATHIL Homeworld
+    BUILDINGS: Tall carpeted buildings with ledges.
+    TERRAIN: Savannah Plains, Grasslands, Deserts, Warm Climate.
+    TECH: Fusion Javelin, Tesla Claws, Fire Weapons, Needlers, Sniper Rifles. 
+    ISSUES: Drugs, Arena Fights, Prostitution, Predation on the Young, Police Corruption.
+    SPACECRAFT: Best Interceptors. 1) Sathe 2) Preklath 3) Jalek 4) Klaith
+    SPACE: Twin Suns, High Temperatures. High Radiation.
+    ECONOMY: Currency-Based with emphasis on Favor-Trading.
+    TACTICS: Cunning and Stealth, Agile combatants equally good at melee/ranged.
+  TAKANA: LANTESS Homeworld
+    BUILDINGS: Living buildings, insect hives underground.
+    TERRAIN: Forests, Mountains.
+    TECH: Symbiote Launchers, Living Nets, Acid Cannon, Psionic Devastators.
+    ISSUES: Groupthink, Regal Subservience, The Good of the Many, Destiny vs. Free-Will.
+    SPACECRAFT: 1) Worker 2) Soldier 3) Lieutenant 4) Colonel
+    SPACE: Insectoid Satellites litter the atmosphere of its 4 moons.
+    ECONOMY: None.
+    TACTICS: Cohesiveness, Disabling Strikes, Communication, Overwhelming Numbers.
+  EARTH: HUMAN Homeworld
+    BUILDINGS: Very technologically advanced.
+    TERRAIN: Thin atmosphere, receded swamps ance icy areas, currently evacuating.
+    TECH: Solid, Frag, Flame, Fission, Needlers, Pulse Weapons.
+    ISSUES: Greed, Politics, Government Control vs. Freedom, Piracy.
+    SPACECRAFT: 1) Falcon 2) Eagle 3) BlackBird 4) Angel
+    SPACE: Single Moon, Dead Moon.
+    ECONOMY: Digital Rights and Integrated.
+    TACTICS: Political creatures, Bribery, Large Navy and many Investigative/Time Agents.
+  SHIALLE: MISTRECI Homeworld
+    BUILDINGS: Tall Towers, Red Tentacle Arches, Red Crystal, Black Vines.
+    TERRAIN: Jungles, plantlife, 2/3 water.
+    TECH: Teleportation, Shields, Pulse, Microwaves, Quantum Missiles, Regrowing 
+      Hulls/Buildings, Energy Siphon.
+    ISSUES: Superiority Complex, Sadistic Urges, Pride.
+    SPACECRAFT: 1) Crab 2) Leviathan 3) Horror 4) Terror 
+    SPACE: Ship debris from past invasion.
+    ECONOMY: Integrated.
+    TACTICS: Living ships, self-healing, small in number, great trainig, superior technology.
+  TOTH: UTH Homeworld
+    BUILDINGS: Caves, igloos made of Rock, some buildings are just cemented piled carcasses.
+    TERRAIN: Ruined/Cracked Earth, Low water supply, lots of caves, heavy radiation clouds.
+    TECH: Vacuum Implosion Bombs, Chainsaw Gyros, bladed nunchakus, Salvaged Weapons, Armor
+      Suits, any kind of metal weapon. Mauls favored.
+    ISSUES: Violence, Infighting, Cannibalism.
+    SPACECRAFT: 1) Rock 2) Satellite 3) Giant Rock 4) Slate
+    SPACE: Corpses, Nuclear Clouds.
+    ECONOMY: Precious Stones Currency.
+    TACTICS: Bezerking, reckless sacrifice, Blitz, Corpse Traps/Catapaults.
+  TRALLUS: NORTU Homeworld 
+    BUILDINGS: Pipes, Iron, Gears, Cranks.
+    TERRAIN: Lakes, Plains, Mountains.
+    TECH: Pump-Action, Slugs, Shotguns, Crank Miniguns, Hand Cannons, Explosives, 
+      Dark Iron Grenades.
+    ISSUES: Slavery, Hucksters, Chauvinism, Experimentation.
+    SPACECRAFT: 1) Exoskeleton 2) Buggy 3) Train 4) Bullet Train
+    SPACE: Asteroid Belts and Asteroid Moon Space Station.
+    ECONOMY: Barter/Trade only.
+    TACTICS: Asteroid Launch, Rapidfire Bullets, Boarding parties with explosive suicide 
+      charges, Raw Numbers.
+  SEPHESTROM: KRELLATH Homeworld
+    BUILDINGS: Green glossy glass surfaces, Scaled Roads, Green Narrow Eyeslit lights.
+    TERRAIN: Swamps, Grasslands.
+    TECH: Plasma, Flechettes, Needlers, Phasing, Cloak.
+    ISSUES: Corporate Espionage, Mass Fraud, Serial Killers, Home Invasions.
+    SPACECRAFT: 1) Asp 2) Salamander 3) Cobra 4) Dragon
+    SPACE: 4 Dragons join to make a space station and can detach, Nebulas.
+    ECONOMY: Digital Rights.
+    TACTICS: Offense, Stealth, Ambushes.
+  GATEWAY: NEX Homeworld
+    BUILDINGS -- HUBS stick out of the ground, no other buildings, rest of architecture 
+      underground. Black with white circuitry, reminiscent of TRON.
+    TERRAIN -- Dead World, Black charred earth. Destroyed their creators. No 
+      oxygen/plants/animals.
+    TECH -- Quantum and Tachyon weapons, Pure energy weapons, nanotechnology self-healing. 
+      Shield Penetrating Nuclear Weapons.
+    ISSUES: Identity Crisis, Tools of Religious Terrorists, The point of life is to 
+      experience.
+    SPACECRAFT: 1) Node 2) Circuit 3)Bridge 4)Parallax
+    SPACE: Nuclear Winter visible from orbit, 1 moon with simple plant life.
+    ECONOMY: Tithe.
+    TACTICS: Calculated No-risk plans. Flanking and superior numbers only. Will retreat.
+  GENERIC OUTPOST: Minimal facilities, lots of wildlife, general store. Occasional Freighter.
+  GENERIC COLONY: Minimal Facilities, Innocents, Minor Quests, Wildlife, Pirate Attacks.
+  GENERIC SPACE STATION: Trade, optional messenger quests, freighter escort quests.
+  
+----------------------------
+----- SPACE ENCOUNTERS -----
+----------------------------
+  GENERIC BUOY: Communications run, Repair Buoy Quest. Occassional Pirate Ambush?
+  GENERIC SPACE CREATURE: Crystalline or Biological, Territorial and hungry. Cruiser-Like. 
+    Crystal/Biological Samples to Sell. Pirates and Anti-Piracy Task Force Show Up.
+  GENERIC PIRATE ENCOUNTER: When Approached, Pirates Jump In. Dangerous, High Salvage.
+  GENERIC FREIGHTER ESCORT ENCOUNTER: Escort or Hijack. High Reward either way. 
+    Goods if Hijacked , Credits if Escort. Pirates or Customs Agents.
+  GENERIC SALVAGE ENCOUNTER: Salvage within time limit, or massive Customs Agents force and 
+    Pirates show up.  
+  GENERIC MINING COLONY: 
+  TIME RIFT EVENT: Either Enter the Rift to Plunder the other side and fight the time agents, 
+    or Report it to the Time Agents.
+  KRELLATH AMBUSH: De-cloaks and attacks. Let them live and take their info and supplies, 
+    or kill them to send a message to the Krellath.
+  BLACK HOLE: Evacuation of Freighters/Colony Quest
+  UTH AMBUSH: Ambush of Uth Barbarians on Citizens.
+  UTH/NORTU SKIRMISH: Join in or pick off survivors, no rep change.
+  
+----------------------------
+----- WORLD ENCOUNTERS -----
+----------------------------
+  SINGLE SIDE FACTION AMBUSH
+  WEAKENED SURVIVORS
+  CARAVAN
+  WEAK CIVILIANS
+  CIVILIANS ABOUT TO FINISH SINGLE FACTION
+  CIVILIANS FIGHTING FACTION
+  FACTION VS. FACTION (Minor)
+  FACTION VS. FACTION (Major)
+  FACTION VS. FACTION VS. FACTION (Huge)
+  TREASURE HUNTING - CIVILIANS
+  TREASURE EXCAVATION - CIVILIANS
+  RAID ON CITY - ONE FACTION (MINOR)
+  RAID ON CITY - TWO FACTIONS (MAJOR)
+  RUINED SPACESHIP
+  RUINED BATTLEFIELD W/ VEHICLES
+  
+
+----------------------------
+-------- CULTURAL ----------
+----------------------------
+  SPEECH: -- COMMON -- American English mixed with some Spanish and minimal German influences but far 
+  advanced, 2000 years of cultural development. Minimal German influence explained by German 
+  Engineers prospering in the early years of colonization. Around 2100, full integration of 
+  Latino cultures had begun in earnest due to its already sizable integration. No one culture is 
+  dominant due to the millenia of integration.
+  -- HIGH -- The asiatic cultures of the 22nd century did not integrate due to major
+  differences in social issues which was a major issue at the time. Since then, its culture
+  has been preserved in the form of historical artifacts still revered to this day. Japanese as
+  a language is used mainly used for covert operations and a select few high administration 
+  offices because they wanted to not speak the common tongue and be overheard. A language of
+  the secretive and the paranoid.
+  -- LOW -- A language used commonly but not by the decent people, used as a mixture of harsh
+  slang and many hand signals, it allows them to be quick and silent when conversing without
+  even the spoken part being heard. Often uses coded sequences in slang terms so that even
+  former Low speakers do not understand new slang.
+
+  RACES --
+    --HUMANS: Same as present day with huge advancements in technology. Focus on 
+      paranoia/greed.
+    --THE THRATHIL: Nicknamed "Thraths". Inspired by Wing Commander's Kilrathi a warlike 
+      cat-based evolved race of warriors. Disgusted by capitalism, privateering and piracy.
+    --THE LANTESS: Nicknamed "Lants". A race of insectoid Communal entities forgoing the use 
+      of language and civilization, they refuse all economy and trade and only want what is good 
+      for their race. Modeled after praying mantises with spider pets. Highly telepathic.
+    --THE MISTRECI: Nicknamed "Mists". A race of red-skinned muscular humanoids with 
+      extreme sadistic tendencies, use horns and claws in combat, adorn them with beautiful 
+      jewelry. Direct and violent, however, they will never be seen as greedy.
+    --THE KRELLATH: Nicknamed "Krells". A race of green half-serpentine shapeshifters that 
+      pursue all economical interests with reckless abandon. Very avarice-focused motives that 
+      can shed their skin to become humanoid or to half-mimic other races' appearances.
+    --THE NEX: Nicknamed "Nexes". A robotic race that have a sort of techno-worshipping 
+      culture, eshew morals and economics and instead revere the AI Terrorists as gods. Are
+      developing a galaxy-wide weapon of last resort using wormholes to destroy stars and 
+      create quasars. They appear to be suits of medieval armor with heavy death thematic
+      elements.
+    --THE UTH: An anaerobe-based barbarian race, they look like rocky giants, evolved from 
+      bacteria that can survive any form of radiation, even nuclear, and survive without oxygen. 
+      They eat one another for sustenance but do not abhor more tender meats. Their only 
+      function is to destroy and consume, even if it is only against themselves that 
+      they succeed. They spread bacteria upon the end of a successful battle, or upon death, often 
+      times both. Bacteria can be toxic to humans and will result in humanoid infections that act 
+      out of control. They are virtually impossible to eradicate, due to their immunity to any and 
+      all radiation. Thankfully they understand little about creating technology. They do, however, 
+      have the ability to understand how metals work, thanks to metallugical engineering being a 
+      part of their DNA, and the ability to adapt that to weapons and armor that tear through any 
+      unshielded target is terrifying. It is common to encourage people to detonate a grenade if 
+      they are in a situation where they think they will die in combat against them, since they
+      resist radiation but fire does the trick. 
+    --THE OLD ONES: The typical grey alien stereotype often referred to by alien abduction in the late
+      20th century. They abducted humankind over two centuries, creating the Althren and the 
+      Nortu. Mysteriously vanished from the Universe some thousand years ago. The Time Agency is very 
+      interested. The KRELLATH are involved. <PLOT STORY ARC>.
+    --THE ALTHREN: Alternate path of evolution of humankind, advanced and bioengineered to have greater
+      intellect and engineering prowess, have the most advanced Psymancers Cybernetics and are 
+      very conniving. Can interbreed with other Human sub-types but it does not often happen. 
+      Resemble humans with elongated heads (but not cranium), ears, fingers, pale bluish skin. 
+    --THE NORTU: Alternate path of evolution of humankind, much larger and tribal, often work as 
+      the best mercenaries and smiths, although they cannot concieve of more complex 
+      technologies. Steampunk-esque. Are very much against cybernetics and consider them as 
+      stealing the soul. Technology doesn't make sense but allies with Uth make it work.
+
+  CHARACTERS: 
+  *VINCENT: Sarcastic Privateer (Main PC By DEFAULT) -- The stereotypical scoundrel with a 
+    heart of gold, a very sarcastic antihero that seeks personal gain but can't hide his 
+    feelings when decent people are being endangered. His sarcasm gets him in a lot of 
+    trouble and cannot turn it off, even to those he cares about.
+  *SCOTT: Younger sidekick boy, very quiet and naive. Often surprises others with his insight and 
+    intensity/instincts. Incredibly talented Psymancer and Hacker, often gets the group
+    into trouble by going off on his own. Becomes a target to Investigative and Time Travel
+    Agents.
+  *KELXI: Mistreci Strong-willed Religious Female (ALLY) --Unsure, definitely needs to be a 
+    progressive female character with her own ambitions and goals that causes conflicted 
+    feelings in the protagonist. Very religious and scientific, adding to self-conflict.
+  *BENEDICT: Althren Terrorist (ALLY) - Joins to show his race the error of their ways, that minds are
+    to be kept sacred. How to not make the PC cry out traitor??? 
+    Hide terrorist activity with intelligence. Make him a pacifist ...most of the time.
+  *VIC: Ex-Praetorian(ALLY PC) , play on the worries of a person that is gifted and is looked at 
+    differently than they used to by family/friends.
+  *REX: Nortu Barbarian: Big muscles, abs, wears no clothing to counter the masochism in gaming, 
+    ignorant of what he does to make other dudes uncomfortable. Awkward poses with swords.
+    Likes things often relegated to "fairies"? Wears gladiatorial apparel. Found on the 
+    Feral world. Forced to run with protagonist.
+  *RELLA: Thrathil Pirate Maniac (ALLY NPC): Skilled in Spacecraft and piloting, completely nut-crazy.
+  *PRETH: Thrathil Pirate Psychopath (ALLY NPC): Skilled in stabbing the hell out of things, insults and threatens
+     Thrathil a lot, and makes menacing threats toward the PC and others that view him as evil.
+  *SINN: Krellath Ex-Spy (ALLY PC): Very greedy, but old and has a lot of old enemies and seeks
+    safety aboard the ship. Untrusted by everyone but always saves the day with intel.
+    Sells Thrown/Utility Items.
+  *GHOST: Nex TechnoSniper: Uses a mixture of sniping and technical expertise to help the party 
+    through, leaves the party a lot but still playable, late game will be suspected of 
+    betrayal to fellow Nex. Name stands for Ghost in the Machine.
+
+  NPCs: 
+  *MARK: (Geek/Nerd character) (ALLY PC/NPC) Progressive character, very socially savvy and in touch with his
+     emotions, and also knows a lot of dirty fighting maneuvers and is ususually direct for a
+     "nerd". Sells Technical Items.
+  *TARK: (UTH Smith/Swordsman) (ALLY PC/NPC) Silent, but erupts in violence quite easily. Very old and
+     scarred. Sells Weapons and Armour.
+  *TARA (Bipolar Female Krellath) (ALLY PC/NPC) Genius Scientist?  
+
+  ENEMIES: Various Plot Enemy NPC's. 
+    VELSHALA: an AI with control of stock market that uses Reporter Conglomerates and 
+      Corrupt Praetorians, along with NEX and easily coerced human terrorists.
+    MERC CPT: a mercenary captain that insinuates himself into new people's business to suggest
+      his Mercenary Guild's services where they aren't totally desired. Has a bad reputation but
+      the PC would have to ask around a lot for that to be known. 
+    LESSER OCULUS: Levitating eye with tentacles a la matrix, will attach and disable you, 
+      medium speed, low hp.
+    GREATER OCULUS: Levitating set of 3 eyes with tentacles a la matrix, will attach and 
+      disable you, medium speed, low hp, when destroyed splits into 3 lesser oculus.
+    PIRATE CORSAIR: Uses 2 sabers that does normal dual-weilding attacks. 
+    PIRATE CUTTTHROAT: Uses an electric cutlass and a 1.5 sec chargeup attack that cleaves. 
+      3 second activation.
+    PIRATE SCAVENGER: Uses a pair of Electric Daggers. 1.0 Sec chargeup attack that hits one 
+      target 4 times. 2.0 Sec Activation
+    PIRATE CAPTAIN: Uses a pulse pistol and Plasma Saber. Fires both with a chargeup attack 0.5 
+      sec/1.0 activation.
+    CYBER-ROGUE: Stealths and sets up a rear perforation strike. Uses shotguns.
+    CYBER-ASSASSIN: will set-up into a rapid fire slash stance, 5 slashes in quick succession, 
+      2 second startup, 2 second activation. Blinks randomly. Uses Electric Pistol.
+    FIGHTER DRONE: A spacecraft that can be remotely controlled and piloted against enemies with
+      no risk to the user, these were outlawed due to the drone amendment to the Artifical
+      Intelligence Proclamation.
+
+  GOVERNMENTS: 
+    COMMERCE UNIONS (Act 1/2/4)
+    MERCENARY GUILDS (Act 1)
+    PIRATE CLANS (Act 2)
+    THE CONSORTIUM (Act 3/4)
+    MILITARY -- INVASION FORCES (Act 3)
+    MILITARY -- GUERILLAS (Act 2/3)
+    MILITARY -- INVESTIGATION AGENTS (Act 3/4)
+    TIME AGENCY (All Acts)
+    LOCAL AUTHORITIES (Act 1)
+    ANTI-PIRACY (Act 2)
+    CUSTOMS AGENTS (Act 2)
+    
+  ECONOMIES -- Many and varied, humankind has long discovered the value in maintaining 
+  independence from government, especially the <name for rebellious and low-class peoples?>. They
+  have also discovered the value in trade, even if only to learn more about threats.
+  -They range from a <BARTER> system on the most paranoid/distant worlds that dont want anything
+  controlling the value of goods aside from the goods themselves. 
+  -Then there is the <CURRENCY> economy based on a precious compact metal that varies from world 
+  to world. 
+  -<SERVICE> A more complex form of the currency economy. This is a type of economy 
+  where the market is more focused on people providing services for other people, and the sale of 
+  products is somewheat less significant although necessary. 
+  -<DIGITAL RIGHTS> An even more complex version of the CURRENCY economy, where money 
+  is derived from the value of owned ideas and influence, where only the copyright and idea owners 
+  can use them in any form. 
+  -<INTEGRATED> economy which manages currency through electronic means mixed 
+  with experimental DNA technologies to prevent easy theft. It is a great deal more complex and 
+  built to control technology as much as business. All currency is valued according to the 
+  <CONSORTIUM>, a multi-world covert assignment of values of everything across the Empire. 
+  The <CONSORTIUM MASTERS> control the flow of all valuation, and monitor the <COMMON STOCK MARKET> 
+  very closely and shut down stocks that offend the flow of valuation they have in mind. 
+  At times, stock termination will result in destruction of countless innocents and homes, but their 
+  deaths impact the CONSORTIUM little. This results, more often in not, than rebels and human terrorists.
+  
+  MILITARY - The concept of an army/brigade unit was deemed archaic, since battles can be won
+  by a single individual with the right technology at the right time, and puts the majority of
+  grunts and citizens at risk. Also, the value of covert/guerilla tactics only increased over
+  the 2,000 years of advanced human evolution. Now, The military is more a shadow organization
+  than an institution. Invasions, however, must be countered by a large number of military 
+  agents only available in times of crisis. A plot point would be an invasion provoked to 
+  achieve a military response that they would abuse.
+    PRAETORIANS GUARD: A term used throughout Human history to describe the most powerful 
+    elite honor guard, which applies to these super-soldiers. Some call them Genetic freaks, 
+    others fascists puppets, and others saviors. They have an array of additional organs and 
+    have the best cybernetic implants available, and operate according to a "Tactical Bible",
+    which each of them have memorized for any given situation. There are multiple variations
+    of their genetics which make them unpredictable with differing traits.
+    INVESTIGATIVE AGENT: A freeform term used for covert operatives that operate within an all-inclusive
+    mandate, and have no legal boundaries. They are given the best equipment and sent in to
+    unknown dangers. Sometimes they will requisition any citizen/soldier they can get their 
+    hands on, sometimes through sheer intimidation and death threats. Praetorians often refuse.
+        
+  VIDEO GAMES -- Games have evolved over the course of human history, from simple dice games
+  to video games to VR programs to Simulators (banned due to miliary technology being 
+  accessible to anyone) to Cybernetic Possession, the ability to posess someone with any 
+  electronic device. Heavily chastised by the Miliary. Certain AI use this to terrifying 
+  effect. AI's are banned and existing AI's are nearly immortal and are prime threats to 
+  Electronic Security. Main villain should be an AI with control of stock market that uses
+  Reporter Conglomerates and Corrupt Praetorians, along with NEX and easily coerced human
+  terrorists.
+
+  DRUGS -- One drug called <FLUX> puts the victim in a time-slowing state abusing the brain's 
+  ability to change the perception of time and light sensitivity. Sometimes FLUX is used to 
+  aid in the hacking ability with severe migraine and muscle pains. <COZONE> is a drug that
+  colors the hair and external dermal cells red (Conan reference) and places victims in a 
+  catatonic state but leaves their pleasure receptors functioning at incredibly high levels
+  and in a dream state where external stimuli are represented as good dream elements. This is
+  a massively insidious threat gaining popularity on the worlds where poverty is rampant and
+  people despair about the loss of control in their lives. <ZOOM> is a drug about amplifying
+  the natural brain processes and musculature growth and is an extremely potent performance-
+  enhancing drug originally developed for the prototype PRAETORIAN GUARD.
+  
+  NEWS REPORTERS/CONGLOMERATES: Some reporters are so influential they control as much
+  of the Common Stock Market as anyone. With news brings attention, with attention 
+  comes editorializing, and with editorializing comes half-truths towards whatever they get
+  paid to say, and have a sway over the common people. This lets them become rich and 
+  influential individuals with entire units of mercenaries to do their bidding. Multiple News
+  Reporters that achieve a certain level of status can group together and form a Conglomerate
+  which can influence entire systems of planets.
+
+  TIME TRAVEL AGENTS -- Agents that center around monitoring wormholes and investigating
+  time lapse anomalies and technologies that are out of place for their place and time. 
+  (FARSCAPE/STARGATE UNIVERSE/DR. WHO REFERENCES?) External NPC's that always pop up at the
+  right/wrong time and are in conflict with Reporter Conglomerates and Praetorians.
+
+---------------------------
+--------- GAMEPLAY --------
+---------------------------
+
+  CONTROL SCHEME: Keyboard and Gamepad integration. XBox 360 Gamepad integration.
+    L/R shoulders, single press -- #1 and #2 attacks of party members. Double-press to move
+    allies to where you are aiming. Hold down to recall allies.
+    LEFT TRIGGER -- Zoom In/Aim. No function in menus (combat may happen)
+    RIGHT TRIGGER -- Fire Weapon/Unjam weapon.
+    A -- Use/Activate/Hack
+    B -- Roll/Evade
+    X -- Melee
+    Y -- Jump.
+    Select -- Opens In-game Menu.
+    Start -- Opens Closes RESUME/OPTIONS/SETTINGS/HELP/QUIT.
+    DPAD-UP -- Use Psionic Power.
+    DPAD-DOWN -- Hold To Lean
+    DPAD-LEFT -- Change Medical/Utility Item.
+    DPAD-RIGHT -- Use Medical/Utility Item.
+    PRESS LEFT STICK -- Run Toggle/Press.
+    PRESS RIGHT STICK -- Crouch.
+
+  COVER SYSTEM: DUCK/EVADE...may implement one that allows single position cover systems. 
+  Activated by dodge button.
+
+  DIFFICULTY: Balance with use of Traps that the player can avoid if they are careful. Add
+    one additional wave per encounter on Hard. Hardcore add 2.
+
+  MERCENARIES: Available if you lose party members in Hardcore, much less
+    powerful. Main characters can die in Hardcore mode. 
+
+  CHARACTERS: 4 characters at once, squad combat focus. Remainder can show up doing special
+    ops, like flying by in your ship with a gun firing, or sniping, or full auto, or medical.
+    Varies depending on team member selected. You can switch on the fly out of 
+    combat, shared xp for all party members.
+
+  DEATH SYSTEM: PC can try to fight themself awake, and use epinephedrine or another 
+    drugname to inject adrenaline into their heart. Death Cost? % stats loss that expires 
+    per kill? Pay cost? Carry Injury Packs? Party Members come back with same cost if the
+    difficulty level is not Hardcore.
+
+  MENUs: Ingame translucent menus, change opaqueness when in combat, occupies 60% of screen 
+   resolution.
+    CHARACTER: Picture of Character, Stats, Spec% breakdown.
+    INVENTORY: listing of items cur/max, red if full, orange if 80% full, 
+    MAP: Shows listing of places, notes as pins in the map that will show the description if
+      hovered over.
+    PARTY: Allows you to look at all party members, switch out your current party members, 
+      and the passive bonuses, team skills, and support abilities (from inactives).
+    SKILLS: Shows Skills, lists tabs, and spacially divides skills by Active/Passive.
+    LEXIPEDIA: Listing of Terms and Attractions.
+    NOTES: Player/Character Notes, able to be edited. Quest entries undeletable.
+      
+  NO-CLASS SYSTEM -- Mixture of abilities used at any one time. Certain world bosses grant 
+  unique skills. Pvp/ArenaNPC Kills also grant kills (at 500/1000/1500 kills?) Cooperative 
+  ressurrects also grant unique skills. No limitations, stat-focused.
+
+  TYPES OF SKILLS: (Active or Passive)
+    WEAPON-BASED: Parry/Dodge/Resist/Crit skills that chain off one another.
+    CHARACTER-BASED: Personal skills that allow flourishes and character flashy moves.
+    NORMAL PROGRESSION: Normal skills, increase damage or cause conditions, affect more 
+      targets the further along they get. Higher debuffs.
+    SPACE PROGRESSION: Space Navigation, Exploration, Combat, Purchase of Ships, Salvage.
+    ECONOMIC PROGRESSION: Earned through Financial Gains, Diplomacy and Trade-Oriented, with one-use
+    skills such as Hit Squad or Hire Assassin.
+    UNLOCKABLES: Unlocked through Achievements, World Events and Universe Events.
+    TEAM SKILLS: Abilities used by 2 characters in tandem.
+
+  STATS: 1 point for main stats, 2 points for secondary stats. Diminishing returns at high 
+    levels, +1/1 at 100, +2/2 at 200, etc.
+  
+  STRENGTH (Major) -- The melee damage statistic that helps to weild successively larger 
+  weapons and armor.
+    INTENSITY (Minor) -- A capacity to use adrenaline and lean muscle mixed with combat 
+    skill to inflict critical hits regardless of size.
+    BULK (Minor) -- Allows barbarian hulking feats, increases carrying capacity.
+  PRECISION (Major) -- The statistic that affects ranged weapons.
+    NERVES OF STEEL (Minor) -- Allows better close-ranged attacks with weapons/reduces recoil.
+    EAGLE EYE (Minor) -- Allows longer-range shots.
+  AGILITY (Major) -- The statistic that affects general grace and dexterity.
+    EVASION (Minor) -- Capacity to dodge attacks reflexively.
+    CRITICAL STRIKE (Minor) -- Capacity of % chance to deal severe damage to weak points.
+  FORTITUDE (Major) -- General tendency to take damage and stay standing longer.
+    HEALTH (Minor) -- Increases your major health pool, affects skills that modify health.
+    TOUGHNESS (Minor) -- Reduces damage taken in ground combat. Reduces shakes in space combat.
+  INTELLIGENCE (Major) -- Allows unique dialogue options w/ diplomats, enhances space combat.
+    PSIONICS (Minor) -- Enhances Psionic Skills, improves conversation with outcasts/rogues
+    FAITH (Minor) -- Enhances Faith Skills, allows religious conversation benefits, increases 
+      currency gain and helps reduce prices.
+  TECH AFFINITY (Major) -- Helps with all technology tasks, assists in conversations with 
+    robots. 
+    HACKING (Minor) -- Affects the hacking speed and enabling of unlocking electronic security.
+    CYBERNETICS/DRUGS (Minor) -- Affects the buffs by using drugs and cybernetic implants,
+      unlocks additional cybernetic enhancements. Only way to gain additional video modes.
+
+  GAME WORLD/UNIVERSE: How to randomize? Loading screen that builds the world at Game Start 
+    and save universe statistics to save game. Better to take the hit on game start.
+
+  LAUNCH OTHER GAMES IN-GAME??? Crazy Cat Lady, Microsoft Windows Games? Simple freeware C++ games?
+
+  JOKE SEGMENTS / ACHIEVEMENTS:
+    TUTORIALS:
+    DRM:
+    TURRET SECTION:
+    PROSTITUTES: 
+    ATTACKING NPCS:
+    HOURS PLAYED IN A ROW:
+    DEATHS > 10 WITHIN AN HOUR:
+    SCI-FI HACKING:
+    SLUTTY ALIENS: 
+    LAW ENFORCEMENT:
+    40K:
+    FIREFLY:
+    DR. WHO:
+    MECHWARRIOR:
+
+  ARENA: Points system with enemy npc's, gives rare cards and good rewards. pits pc and npcs 
+  against other npcs?
+  
+  SPORTS GAME (SINGULARITY), catch a ball exploding like a flashbang on a random timer 5-15 
+    seconds, 6 v 6. Central midair platform that resembles a black hole.
+ 
+  COOP: Hopefully implement local/online(P2P) coop gameplay.
+  
+  SCOREBOARD: Should be as simple as outputting statistics to a web server, creating a 
+    webpage report using MySQL, and allowing a viewing of that scoreboard.
+
+----------------------------
+---- CARD GAME: PLUNDER ----
+----------------------------
+  CARD DECK BUILDING GAME: Start with 5 resources 5 characters. Library can only contain 12
+  kinds of cards, up to 10 copies of each.
+  TIMER: Fast-paced timer game, 15 seconds normal, 5 seconds hard. 
+  RESOURCE CARDS: Generate 1 per resource card in play, special abilities are an exception.
+    DISCARD ACTION: FREE Action, once per Turn, discards Resource Card in Play to generate 
+    2 resources that turn
+  PHASES:
+    DRAW: Draw up to 7 Cards each turn.
+    BUY: Gain resources, spend resources to add a card into your deck.
+    ATTACK: May happen once per character. Attack one character with another, only full 
+      damage suffered, no hp counters. If you kill your target you suffer no retaliatory 
+      damage. Default 1 Plunder per success.
+    PLUNDER: Raid a player, discarding one character in your hand and stealing that # of 
+      cards equivalent to the character's HP. Gain 2 plunder.
+    ACTION CARD: Play any amount of action cards.
+  WIN CONDITION: Who ever has the most plunder at the end of the game wins.
+  NEW CARDS TO LIBRARY: New cards obtained from won games, from combat 1%, 
+    Store at high prices. Beaten opponents always open new dialogue paths, give discounts. 
+    Some allies have to be beaten to join? 
+    100 cards total, 20 Base Set, 10 Rare, 5 Boss Drops. 
+  CHEATING: Allow cheating % chance based on Agility to draw one extra card. .5% per AGI
+
+-------------------------------------
+--------- GAME PACKAGING ------------
+-------------------------------------
+  DEMO: First Hour of Gameplay only. Allow multiple characters.
+  DLC: Last priority, skins only, noncombat pets, cockpit bobbleheads, Cards Expansion Packs.
+  WEBSITE: Use Codemonkeywrench, buy space from wordpress?
+  ORDERS: Paypal through a website, use google store on website. Should be fine with my own 
+    website. Submit to Greenlight/Steam.
+  PACKAGING: Create template for cd label, if orders get over 50, use a fulfillment company 
+    for CD Labels and DVDs. Or do digital exclusively?
+  SALE: No preorder bonus, Premiere sale 50% off, Christmas sale 90% off, 
+
+-------------------------------------
+---------- SKILL LIST ---------------
+-------------------------------------
+-Six Tiers, Melee/Ranged/Psionic/Defense/Hacking/Demolition/Exotic 
+-Actives and Passives
+-Different Skill Types.
+-Level up skills 3 points in each.
+
+MELEE:
+--1-1: (ACTIVE) SAVAGE ROAR: You roar in defiance, making any foe nervous about approaching.
+  PP COST: ACTIVATION TIME: COOLDOWN:
+--1-2: (PASSIVE)
+--1-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-4: (PASSIVE)
+--1-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-1: (PASSIVE)
+--2-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-3: (PASSIVE)
+--2-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-5: (PASSIVE)
+--3-1: (ACTIVE) DISARM: Knocks your opponents weapon into the ground.
+  PP COST: ACTIVATION TIME: COOLDOWN:
+--3-2: (PASSIVE)
+--3-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-4: (PASSIVE)
+--3-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-1: (PASSIVE)
+--4-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-3: (PASSIVE)
+--4-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-5: (PASSIVE)
+--5-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-2: (PASSIVE)
+--5-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-4: (PASSIVE)
+--5-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-1: (PASSIVE)
+--6-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-3: (PASSIVE)
+--6-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-5: (PASSIVE)
+
+RANGED:
+--1-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-2: (PASSIVE)
+--1-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-4: (PASSIVE)
+--1-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-1: (PASSIVE)
+--2-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-3: (PASSIVE)
+--2-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-5: (PASSIVE)
+--3-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-2: (PASSIVE)
+--3-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-4: (PASSIVE)
+--3-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-1: (PASSIVE)
+--4-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-3: (PASSIVE)
+--4-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-5: (PASSIVE)
+--5-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-2: (PASSIVE)
+--5-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-4: (PASSIVE)
+--5-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-1: (PASSIVE)
+--6-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-3: (PASSIVE) 
+--6-4: (ACTIVE) Anti-Matter Ammo: The most expensive and dangerous ammo in the universe,
+  you really shouldn't be handling them. Or even looking at them.
+  PP COST: ACTIVATION TIME: COOLDOWN:
+--6-5: (PASSIVE) 
+
+PSIONIC:
+--1-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-2: (PASSIVE)
+--1-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-4: (PASSIVE)
+--1-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-1: (PASSIVE)
+--2-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-3: (PASSIVE)
+--2-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-5: (PASSIVE)
+--3-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-2: (PASSIVE)
+--3-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-4: (PASSIVE)
+--3-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-1: (PASSIVE)
+--4-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-3: (PASSIVE)
+--4-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-5: (PASSIVE)
+--5-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-2: (PASSIVE)
+--5-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-4: (PASSIVE)
+--5-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-1: (PASSIVE)
+--6-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-3: (PASSIVE)
+--6-4: (ACTIVE) NIGHTMARE: Makes an enemy become lost in their own nightmare. 
+  Different than a hallucination, they cannot snap themself out of this one. 
+  PP COST: ACTIVATION TIME: COOLDOWN:
+--6-5: (PASSIVE)
+
+DEFENSE:
+--1-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-2: (PASSIVE)
+--1-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-4: (PASSIVE)
+--1-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-1: (PASSIVE)
+--2-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-3: (PASSIVE)
+--2-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-5: (PASSIVE)
+--3-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-2: (PASSIVE)
+--3-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-4: (PASSIVE)
+--3-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-1: (PASSIVE)
+--4-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-3: (PASSIVE)
+--4-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-5: (PASSIVE)
+--5-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-2: (PASSIVE)
+--5-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-4: (PASSIVE)
+--5-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-1: (PASSIVE)
+--6-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-3: (PASSIVE)
+--6-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-5: (PASSIVE)
+
+HACKING:
+--1-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-2: (PASSIVE)
+--1-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-4: (PASSIVE)
+--1-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-1: (PASSIVE)
+--2-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-3: (PASSIVE)
+--2-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-5: (PASSIVE)
+--3-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-2: (PASSIVE)
+--3-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-4: (PASSIVE)
+--3-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-1: (PASSIVE)
+--4-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-3: (PASSIVE)
+--4-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-5: (PASSIVE)
+--5-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-2: (PASSIVE)
+--5-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-4: (PASSIVE)
+--5-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-1: (PASSIVE)
+--6-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-3: (PASSIVE)
+--6-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-5: (PASSIVE) 
+
+DEMOLITION:
+--1-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-2: (PASSIVE)
+--1-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--1-4: (PASSIVE)
+--1-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-1: (PASSIVE)
+--2-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-3: (PASSIVE)
+--2-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--2-5: (PASSIVE)
+--3-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-2: (PASSIVE)
+--3-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--3-4: (PASSIVE)
+--3-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-1: (PASSIVE)
+--4-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-3: (PASSIVE)
+--4-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--4-5: (PASSIVE)
+--5-1: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-2: (PASSIVE)
+--5-3: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--5-4: (PASSIVE)
+--5-5: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-1: (PASSIVE)
+--6-2: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-3: (PASSIVE)
+--6-4: (ACTIVE) PP COST: ACTIVATION TIME: COOLDOWN:
+--6-5: (PASSIVE)
+
+SPACE:
+--1-1: (ACTIVE) Fortify Shields +10%/20%/30% shielding 
+  PP COST:5 ACTIVATION TIME:1 COOLDOWN:10
+--1-2: (PASSIVE) Regen Shields + 3%/6%/9% per Min.  
+--1-3: (ACTIVE) Fortify Weapons: Increase damage dealt by weapons + 10%/20%/30% 
+   PP COST:5 ACTIVATION TIME:1 COOLDOWN:10
+--1-4: (PASSIVE) Regen Ammo: +3%/+6%/+10% Ammo per Minute
+--1-5: (ACTIVE) Hide: Make enemies not find you for 5 seconds. 60 seconds recharge.
+   PP COST:5 ACTIVATION TIME:1 COOLDOWN:10
+--2-1: (PASSIVE) Turn Speed +4%/+8%/+12%
+--2-2: (ACTIVE) PP COST:10 ACTIVATION TIME:1.5 COOLDOWN:20
+--2-3: (PASSIVE) Acceleration +4%/+8%/+12%
+--2-4: (ACTIVE) PP COST:10 ACTIVATION TIME:1.5 COOLDOWN:20
+--2-5: (PASSIVE) Projectile Speed +4%/+8%/+12%
+--3-1: (ACTIVE) PP COST:15 ACTIVATION TIME:2 COOLDOWN:30
+--3-2: (PASSIVE) Laser Recharge +5%/+10%/+15%
+--3-3: (ACTIVE) PP COST:15 ACTIVATION TIME:2 COOLDOWN:30
+--3-4: (PASSIVE) Plasma Damage +5%/+10%/+15%
+--3-5: (ACTIVE) PP COST:15 ACTIVATION TIME:2 COOLDOWN:30
+--4-1: (PASSIVE) Mines Damage +6%/+12%/+18%
+--4-2: (ACTIVE) PP COST:20 ACTIVATION TIME:2.5 COOLDOWN:40
+--4-3: (PASSIVE) Plasma Recharge +6%/+12%/+18%
+--4-4: (ACTIVE) PP COST:20 ACTIVATION TIME:2.5 COOLDOWN:40
+--4-5: (PASSIVE) Mines Recharge +6%/+12%/+18%
+--5-1: (ACTIVE) PP COST:25 ACTIVATION TIME:3 COOLDOWN:50
+--5-2: (PASSIVE) Missiles Damage +7%/+14%/+21%
+--5-3: (ACTIVE) PP COST:25 ACTIVATION TIME:3 COOLDOWN:50
+--5-4: (PASSIVE) Missiles Recharge +7%/+14%/+21%
+--5-5: (ACTIVE) PP COST:25 ACTIVATION TIME:3 COOLDOWN:50
+--6-1: (PASSIVE) Accuracy +8%/+16%/+24%
+--6-2: (ACTIVE) PP COST:30 ACTIVATION TIME:3.5 COOLDOWN:60
+--6-3: (PASSIVE) Max Shields +8%/+16%/+24%
+--6-4: (ACTIVE) PP COST:30 ACTIVATION TIME:3.5 COOLDOWN:60
+--6-5: (PASSIVE) Max Armor +8%/+16%/+24%
+
+-------------------------------------
+---------- TEAM SKILLS --------------
+-------------------------------------
+1-1 VINCENT/SCOTT - Identify Weak Points For VINCENT's Shots 3 staggered reticles
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2 VINCENT/KELXI - KELXI blows kiss, VINCENT shoots vigorously.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3 VINCENT/BENEDICT - VINCENT gives BENEDICT a funny look, BENEDICT shoots an enemy 
+  without looking.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-4 VINCENT/VIC - VINCENT and VIC shoot as fast as each of them can to outdo eachother.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-5 VINCENT/REX - VINCENT waves REX over and REX throws VINCENT into the group of enemies, 
+  VINCENT slashing around, damaging 3 enemies.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-6 VINCENT/RELLA - VINCENT starts cackling and RELLA fires 3 shots in between her 
+  outstretched fingers.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-7 VINCENT/PRETH - VINCENT stares PRETH dead in the face, and fires 3 shots behind PRETH's
+  head.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-8 VINCENT/SINN - VINCENT and REX shoot each other as close as they can and miss, then
+  turn and shoot enemies three times.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-9 VINCENT/GHOST - VINCENT makes a playful 2-hand grip on a pistol next to his face and 
+  looks to the side, GHOST doesn't stop his methodical firing on enemies to even glance, and
+  knocks 2 enemies out, dealing damage greatly.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-1 SCOTT/KELXI - KELXI pushes SCOTT and fires her weapon several times. SCOTT then rolls 
+  out of the way and throws a grenade at them, knocking down or stunning them.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-2 SCOTT/BENEDICT - SCOTT and BENEDICT both focus Psionic Energy at the foes, hitting 6 of 
+  them in rapid alternating succession and stunning them.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-3 SCOTT/VIC - SCOTT focuses and tries to get a headshot with his rifle, VIC gets 4 
+  headshots, doing increasingly severe damage.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-4 SCOTT/REX - SCOTT looks around and squints his eyes at REX, REX ignores him and leaps 
+  into a group of enemies, knocking up to 5 of them down.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-5 SCOTT/RELLA - SCOTT tries not to look at RELLA, RELLA spins around seductively and fires 
+  wildly at all opponents, firing 12 and hitting 6 for reduced damage.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-6 SCOTT/PRETH - PRETH dashes over and throws SCOTT at the enemies, with SCOTT turning on
+  a psychic shield and impacting as a shockwave. PRETH laughs maniacally.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-7 SCOTT/SINN - SCOTT fires rapidly, hitting 5 enemies with psionic blasts, and SINN looks
+  at SCOTT intently, firing twice at his previous targets.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+2-8 SCOTT/GHOST - SCOTT looks at GHOST admiringly, shooting his targets right after GHOST 
+  shoots them, each fire 4 shots.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-1 KELXI/BENEDICT - KELXI Runs over to the closest enemy and throws one at BENEDICT, and 
+  he throws them into the nearest other enemy and shoots the both of them twice after. 
+  6 hits total.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-2 KELXI/VIC - KELXI Trips Enemies around her, VIC shoots them all.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-3 KELXI/REX - KELXI gut-punches and throws an enemy into REX who breaks their back and 
+  throws them into the nearest group of enemies. Does massive damage to the primary and 
+  good damage to up to 5 secondaries.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-4 KELXI/RELLA - KELXI and RELLA swing around psychotically hand-in-hand, kicking 3 
+  enemies each, in 6 jumps.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-5 KELXI/PRETH - KELXI and PRETH take turns jumping behind and stabbing one enemy 12 times 
+  with daggers.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-6 KELXI/SINN - SINN sneaks up behind KELXI and KELXI throws SINN into a nearby enemy and 
+  then throws SINN a few feet behind her.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+3-7 KELXI/GHOST - KELXI throws a low-strength gravity grenade at 2 targets, levitating 
+  targets for GHOST to shoot 2 times each.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+4-1 BENEDICT/VIC - BENEDICT highlights targets and enchants VIC's bullets, causing them to
+  be guided to the target and hit the targets from behind after penetrating.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+4-2 BENEDICT/REX - REX charges an enemy and BENEDICT phases behind them and stabs them 
+  with his sword, then shooting the target in the side of the head before phasing back.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+4-3 BENEDICT/RELLA - BENEDICT drives 3 enemies insane, and RELLA jumps between them 
+  maniacally stabbing them each repeatedly 12 times in random musical fashion for minor 
+  damage each strike. (1111-222--33-2-2-2-2--1--1--1-3--3--3---3)
+    PP COST: ACTIVATION TIME: COOLDOWN:
+4-4 BENEDICT/PRETH - BENEDICT makes PRETH phased, allowing PRETH to run through stabbing 
+  enemies with great glee in great swathes with his twin swords.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+4-5 BENEDICT/SINN - BENEDICT stuns enemies and SINN takes time throwing 3 daggers at 3 
+  enemies, dealing high damage.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+4-6 BENEDICT/GHOST - BENEDICT phases and GHOST fires on one target twice, and BENEDICT 
+  stabs the target and twists the blade and leaps/phases away.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+5-1 VIC/REX - VIC and REX strike one enemy and knock it to each other 2 times each in an
+  alternating fashion.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+5-2 VIC/RELLA - VIC tells RELLA to calm down and RELLA runs around terrorizing enemies with 
+  vicious dishonorable attacks.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+5-3 VIC/PRETH - PRETH stabs 2 enemies in the stomachs and VIC runs over and decapitates 
+  each one.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+5-4 VIC/SINN - SINN steals VIC's weapon and uses it to attack 4 enemies then throws it back 
+  at VIC and it lands in the ground.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+5-5 VIC/GHOST - VIC throws a frag grenade at GHOST's targets, GHOST fires 2 times at two 
+  targets.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+6-1 REX/RELLA - REX throws 2 throwing axes at 2 enemies and RELLA throws 2 grenades at those 
+  enemies hitting 4 nearby targets for 1/2 dmg.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+6-2 REX/PRETH - REX and PRETH move and attack enemies near each other twice.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+6-3 REX/SINN - REX throws SINN at enemies and nods his head when he connects.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+6-4 REX/GHOST - REX throws enemies at GHOST and GHOST melees them for once.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+7-1 RELLA/PRETH - RELLA and PRETH whirlwhind around enemies damaging them all multiple times 
+  for random amounts (minor to great)
+    PP COST: ACTIVATION TIME: COOLDOWN:
+7-2 RELLA/SINN - SINN throws a net at one enemy and RELLA throws 3 knives at the target.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+7-3 RELLA/GHOST - RELLA throws 4 grenades near GHOST that do low damage to 8 enemies.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+8-1 SINN/GHOST - GHOST throws an ION grenade and fires at 3 targets for low-moderate damage.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+
+1-1-1 VINCENT/SCOTT/KELXI: KELXI plays with SCOTT's hair, trying to make VINCENT JEALOUS. 
+  SCOTT nervously fires and VINCENT throws a grenade under KELXI's Legs. 
+  SCOTT/KELXI Jump backward.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-2 VINCENT/SCOTT/BENEDICT
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-3 VINCENT/SCOTT/VIC
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-4 VINCENT/SCOTT/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-5 VINCENT/SCOTT/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-6 VINCENT/SCOTT/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-7 VINCENT/SCOTT/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-8 VINCENT/SCOTT/GHOST: VINCENT does the robot, SCOTT fires a few times, then laughs out
+  loud hard, GHOST fires 6 times at enemies, knocking them down.
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-1 VINCENT/KELXI/BENEDICT
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-2 VINCENT/KELXI/VIC
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-3 VINCENT/KELXI/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-4 VINCENT/KELXI/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-5 VINCENT/KELXI/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-6 VINCENT/KELXI/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-2-7 VINCENT/KELXI/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3-1 VINCENT/BENEDICT/VIC
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3-2 VINCENT/BENEDICT/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3-3 VINCENT/BENEDICT/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3-4 VINCENT/BENEDICT/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3-5 VINCENT/BENEDICT/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-3-6 VINCENT/BENEDICT/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-4-1 VINCENT/VIC/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-4-2 VINCENT/VIC/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-4-3 VINCENT/VIC/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-4-4 VINCENT/VIC/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-4-5 VINCENT/VIC/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-5-1 VINCENT/REX/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-5-2 VINCENT/REX/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-5-3 VINCENT/REX/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-5-4 VINCENT/REX/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-6-1 VINCENT/RELLA/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-6-2 VINCENT/RELLA/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-6-3 VINCENT/RELLA/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-7-1 VINCENT/PRETH/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-8-1 VINCENT/PRETH/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-9-1 VINCENT/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+
+1-1-1-1 VINCENT/SCOTT/KELXI/BENEDICT
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/KELXI/VIC
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/KELXI/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/KELXI/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/KELXI/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/KELXI/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/KELXI/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/BENEDICT/VIC/
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/BENEDICT/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/BENEDICT/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/BENEDICT/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/BENEDICT/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/BENEDICT/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/VIC/REX
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/VIC/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/VIC/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/VIC/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/VIC/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/REX/RELLA
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/REX/PRETH
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/REX/SINN
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/REX/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/RELLA/PRETH/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/RELLA/PRETH/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/RELLA/PRETH/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/PRETH/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/PRETH/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+1-1-1-1 VINCENT/SCOTT/SINN/GHOST
+    PP COST: ACTIVATION TIME: COOLDOWN:
+
+-------------------------------------
+--------- SUPPORT SKILLS ------------
+-------------------------------------
+1-1 COLUMN OF DUST: Completely annihilates a single target in a column of plasma.
+1-2 DEVIL HORN: Cone of Destruction.
+1-3 RIGHTEOUS CROSS: Detonates remote charges in a 4-directional layout.
+1-4 SNIPER FLURRY: Several semi-auto sniper shots from offscreen, 10 in total. 
+  High accuracy (75%)
+1-5 INCINERATING HALO: Destroys all beyond 15' all around the user.
+
+-------------------------------------
+------------ CARD LIST --------------
+-------------------------------------
+100 common(Drops/Buyable), 20 rare (Quests/Hard to Find), 5 Legendary (Tut/A1/A2/A3/A4 Comp.)
+--C1: (GROUND) 
+--C2: (AIR)
+--C3: (SPACE)
+--C4: (ACTION)
+--C5: (RESOURCE)
+--C6: (GROUND) 
+--C7: (AIR)
+--C8: (SPACE)
+--C9: (ACTION)
+--C10: (RESOURCE)
+--C11: (GROUND) 
+--C12: (AIR)
+--C13: (SPACE)
+--C14: (ACTION)
+--C15: (RESOURCE)
+--C16: (GROUND) 
+--C17: (AIR)
+--C18: (SPACE)
+--C19: (ACTION)
+--C20: (RESOURCE)
+--C21: (GROUND) 
+--C22: (AIR)
+--C23: (SPACE)
+--C24: (ACTION)
+--C25: (RESOURCE)
+--C26: (GROUND) 
+--C27: (AIR)
+--C28: (SPACE)
+--C29: (ACTION)
+--C30: (RESOURCE)
+--C31: (GROUND) 
+--C32: (AIR)
+--C33: (SPACE)
+--C34: (ACTION)
+--C35: (RESOURCE)
+--C36: (GROUND) 
+--C37: (AIR)
+--C38: (SPACE)
+--C39: (ACTION)
+--C40: (RESOURCE)
+--C41: (GROUND) 
+--C42: (AIR)
+--C43: (SPACE)
+--C44: (ACTION)
+--C45: (RESOURCE)
+--C46: (GROUND) 
+--C47: (AIR)
+--C48: (SPACE)
+--C49: (ACTION)
+--C50: (RESOURCE)
+--C51: (GROUND) 
+--C52: (AIR)
+--C53: (SPACE)
+--C54: (ACTION)
+--C55: (RESOURCE)
+--C56: (GROUND) 
+--C57: (AIR)
+--C58: (SPACE)
+--C59: (ACTION)
+--C60: (RESOURCE)
+--C61: (GROUND) 
+--C62: (AIR)
+--C63: (SPACE)
+--C64: (ACTION)
+--C65: (RESOURCE)
+--C66: (GROUND) 
+--C67: (AIR)
+--C68: (SPACE)
+--C69: (ACTION)
+--C70: (RESOURCE)
+--C71: (GROUND) 
+--C72: (AIR) Doomed Mercenaries: 3/3: <On Attack> May suicide to do +2 Damage against 
+  Ground Units.
+--C73: (SPACE)
+--C74: (ACTION)
+--C75: (RESOURCE)
+--C76: (GROUND) 
+--C77: (AIR)
+--C78: (SPACE)
+--C79: (ACTION) Resonance: +1 Defense to all Players' Space Units this turn.
+--C80: (RESOURCE)
+--C81: (GROUND) Human Commander: 4/2: <On Attack> +2 Damage against Non-Human Ground Units.
+--C82: (AIR)
+--C83: (SPACE)
+--C84: (ACTION)
+--C85: (RESOURCE)
+--C86: (GROUND) Ravenous Serpent: 4/2: <On Attack> +2 Damage against Human Ground Units.
+--C87: (AIR)
+--C88: (SPACE)
+--C89: (ACTION)
+--C90: (RESOURCE)
+--C91: (GROUND) Psychic Nightmare: 4/3: +1 Damage against Human Ground Units.
+--C92: (AIR)
+--C93: (SPACE)
+--C94: (ACTION)
+--C95: (RESOURCE)
+--C96: (GROUND) Synaptic Opressor: 7/6: +1 Plunder per Successful Attack.
+--C97: (AIR)
+--C98: (SPACE)
+--C99: (ACTION)
+--C100: (RESOURCE)
+--R1: (GROUND) Genetic Abomination: 4/4: <On Attack> Kills Star Ranger Automatically.
+--R2: (AIR)
+--R3: (SPACE)
+--R4: (ACTION)
+--R5: (RESOURCE)
+--R6: (GROUND) Tentacled Titan: 8/8: <On damaged> Ignore first 4 Damage.
+--R7: (AIR)
+--R8: (SPACE)
+--R9: (ACTION)
+--R10: (RESOURCE)
+--R11: (GROUND) Abusive Morale Officer: 2/6 <On Attack> Execute(Trash) another Ground 
+  Character to gain +4 attack.
+--R12: (AIR)
+--R13: (SPACE)
+--R14: (ACTION) Time to get Frecked Up!: Change Defense of all Troops to 1.
+--R15: (RESOURCE)
+--R16: (GROUND) Flame Fighter: 5/3 <On Attack> Attack 2 enemies at once.
+--R17: (AIR)
+--R18: (SPACE)
+--R19: (ACTION)
+--R20: (RESOURCE)
+--L1: (GROUND) Star Ranger: 7/7 <On Damaged> Ignore the first 2 Damage.
+--L2: (AIR) Aurora Drone: 8/4 <On Attack> Any Ground Unit hit cannot act next turn. 
+--L3: (SPACE) Havoc Flare : 8/8 <On Attack> Any Air Unit hit suffers + 2 Damage.
+--L4: (RESOURCE) Colossal Astronomics - <Discard> Generates 3 Resource Points per turn.
+--L5: (ACTION) Marked Omen <Cost:5 RP> - <Trash> Detonates explosivees affecting all ground 
+      units of one player, reducing that player's plunder by 5.
