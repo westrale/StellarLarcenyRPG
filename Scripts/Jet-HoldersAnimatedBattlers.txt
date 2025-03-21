@@ -1,0 +1,737 @@
+#===============================================================================
+# Animated Battlers
+# By Jet10985 (Jet)
+#===============================================================================
+# This script will allow the use of spritesheets to represent enemies and actors
+# inside the battle scene.
+# This script has: 14 customization options.
+#===============================================================================
+# Overwritten Methods:
+# None
+#-------------------------------------------------------------------------------
+# Aliased methods:
+# Cache: load_bitmap
+# Game_Battler: initialize, on_damage
+# BattleManager: process_victory, process_defeat, battle_start
+# Sprite_Battler: initialize, update, update_origin, start_effect,
+#   revert_to_normal
+# Sprite: update
+#===============================================================================
+=begin
+If you need to set up a custom animated sprite for a specific actor or enemy,
+you need to use these inside the character's notebox:
+
+<anim battler: name> (This sets the name of the animated spritesheet to use)
+
+The above is the only needed notetag to use a custom spritesheet, but if you
+need to go against default configuration below as well, you may use these:
+
+<anim speed: speed> (This sets the speed at which the animation changes frames)
+<anim frames: frames> (This sets how many frames there are in a single row)
+<anim rows: rows> (This sets how many rows there are in the spritesheet)
+--------------------------------------------------------------------------------
+Byd efault, all states except being dead will set the row to be the one
+set for :state, but if you need a state which does not change the current row,
+use this in the state's notebox:
+
+<anim no pose>
+--------------------------------------------------------------------------------
+To have an enemy follow the opposite of the below FLIP_ENEMIES config, use this
+notetag:
+
+<anim flip>
+
+Putting this in an actor's notebox will always cause the actor's sprite to be
+flipped.
+--------------------------------------------------------------------------------
+You can change an enemy's attack animation by using this notetag:
+
+<atk anim: id>
+--------------------------------------------------------------------------------
+If you need to have a special sheet for when the character is a specific class,
+use this tag in the class notebox:
+
+<anim suffix: suffix>
+
+This will make the script look for whatever their default sheet would be,
+but with suffix at the end. So if the tag was <anim suffix: _paladin> and the
+base sheet was "Jimmy", the script would look for "Jimmy_paladin"
+--------------------------------------------------------------------------------
+If you need to have a specific row for when the character has a specific state,
+use this tag in the state notebox:
+
+<anim row: row>
+
+This will make it so if this state is inflicted, the character's row will be
+that of whatever the row is in the notetag.
+If multiple states have a notetag, and are inflicted, the state with the highest
+"Display Priority" will be used.
+--------------------------------------------------------------------------------
+By default, this is what the POSE_ROWS configuration correlates to in choosing
+which row of the spritesheet to show. This uses a format which Holder uses in
+their animated battlers by default, and this is taken directly from them:
+
+1. Idle - Waiting.
+2. Defend - Guarding.
+3. Woozy - Under status effect. (Also low hp value)
+4. Struck - Being hit. (Taking damage)
+5. Attack - Striking the target.
+6. Item - Using an item.
+7. Skill - Using a technique.
+8. Magic - Casting a spell.
+9. Advance - Moving forward.
+10. Retreat - Moving away. (From target or fleeing from battle)
+11. Victory - Battle end.
+12. Enter - Battle start.
+13. Dead - Corpse. (Dead-dood-ded)
+14. Credits - Information about the graphic. (Not shown in game)
+=end
+
+##############################################################################
+##############################################################################
+##############################################################################
+
+module Jet
+  module AnimatedBattlers
+    
+    # This is how many rows on poses there are in a default spritesheet.
+    # The height of each row is determined by dividing the animation
+    # bitmap height by this.
+    ANIMATION_ROWS = 14
+    
+    # This is how many frames are in a row/pose.
+    # This width of each frame is determined by dividing the animation
+    # bitmap width by this.
+    ANIMATION_FRAMES = 4
+    
+    # This is how long it takes in frames to change which frame is displayed
+    # on the current pose.
+    ANIMATION_SPEED = 10
+    
+    # This is the suffix added to the character's name to try to find a default
+    # animated spritesheet. If an enemy's name was "Slime", this script will
+    # first scan the note for a specific spritesheet, and if it does not find
+    # it, this script will then search for a file by the enemy's name combined
+    # with this suffix. If the suffix was "_animated", it'd look for 
+    # "Sline_animated"
+    ANIM_SUFFIX = "_animated"
+    
+    # Do you want to flip enemy's spritesheets by default?
+    FLIP_ENEMIES = true
+    
+    # Don't touch.
+    PLAYER_SPOTS = []
+    
+    # This is where an actor's battler is displayed on the screen.
+    # You can add one for each actor by following this format:
+    # PLAYER_SPOTS[party_index] = [x, y]
+    PLAYER_SPOTS[0] = [315, 110]   #[315, 50]
+    PLAYER_SPOTS[1] = [335, 140]   #[335, 80]
+    PLAYER_SPOTS[2] = [315, 170]  #[355, 110]
+    PLAYER_SPOTS[3] = [335, 200]  #[375, 140]
+    
+    # Do you want the battlers to move to the target when attacking?
+    MOVE_TO_TARGET = true
+    
+    # This is the amount of time it takes to move an animated battler to their
+    # target during a physical attack. This is in seconds.
+    TIME_TO_MOVE = 1 #0.5
+    
+    # This is a switch to turn animated battlers off and to revert to normal.
+    TURN_OFF = 0
+    
+    # This is the percent of hp a battler's current hp has to be below to be
+    # considered "critical condition"
+    CRIT_PERC = 25
+    
+    # What is an enemy's default attack animation id?
+    ENEMY_DEF_ANIM = 1
+    
+    # This is the harder config, fair warning.
+    # By default, these options work with Holder's animated battlers.
+    # These are used to determine which condition goes to which row on
+    # the sheet.
+    # :symbol => row_id
+    POSE_ROWS = {
+    
+      :idle => 0,
+      :guard => 1,
+      :state => 2,
+      :damage => 3,
+      :attack => 4,
+      :item => 5,
+      :skill => 6,
+      :magic => 7,
+      :advance => 8,
+      :retreat => 9,
+      :victory => 10,
+      :begin => 11,
+      :dead => 12,
+      :credits => 13
+    
+    }
+    
+    #---------------------------------------------------------------------------
+    # This is the most difficult and optional config.
+    # You may set specific amounts of frames, and speed for each row of
+    # specific spritesheets.
+    # "SheetName" => {row_index => [frames, speed], next_row => [frames, speed]}
+    # row_index is which row you're configuring
+    # frames is how many frames there are on this row
+    # speed if how long it takes to make from one frame to the other.
+    #---------------------------------------------------------------------------
+    ROW_CONFIG = {
+    
+      "ExampleSheet" => {
+        0 => [14, 10],
+        1 => [7, 10]
+      },
+      "ExampleSheet_paladin" => {
+        8 => [27, 20],
+        9 => [3, 5]
+      }
+    }
+    
+    # This is the default for rows for every sheet if you need to change them.
+    # It follows the format of the second hash in the above config.
+    # row_index => [frames, speed]
+    ROW_HASHES = {}
+    
+    # Don't touch these.
+    ROW_HASHES.default = [ANIMATION_FRAMES, ANIMATION_SPEED]
+    ROW_CONFIG.default = ROW_HASHES
+    
+  end
+end
+
+#===============================================================================
+# DON'T EDIT FURTHER UNLESS YOU KNOW WHAT TO DO.
+#===============================================================================
+
+($imported ||= {})[:jet] ||= {}
+$imported[:jet][:AnimatedBattlers] = true
+
+class Game_Actor
+  
+  def screen_x
+    Jet::AnimatedBattlers::PLAYER_SPOTS[self.index][0] rescue 0
+  end
+  
+  def screen_y
+    Jet::AnimatedBattlers::PLAYER_SPOTS[self.index][1] rescue 0
+  end
+  
+  def screen_z
+    100
+  end
+  
+  def battler_name
+    self.actor.name
+  end
+end
+
+class Game_Enemy
+  
+  def atk_animation_id1
+    begin
+      self.enemy.note.match(/<atk[ ]*anim[ ]*(\:|=)[ ]*(\d+)/i)[2]
+    rescue
+      Jet::AnimatedBattlers::ENEMY_DEF_ANIM
+    end
+  end
+  
+  def atk_animation_id2
+    0
+  end
+end
+
+class << Cache
+  
+  alias jet3746_load_bitmap load_bitmap
+  def load_bitmap(*args, &block)
+    (jet3746_load_bitmap(*args, &block)).dup
+  end
+end
+
+class Game_Battler
+  
+  attr_accessor :animation_row
+  attr_accessor :animation_delay
+  
+  alias jet1824_initialize initialize
+  def initialize(*args, &block)
+    @animation_row = Jet::AnimatedBattlers::POSE_ROWS[:idle]
+    @animation_delay = 0
+    jet1824_initialize(*args, &block)
+  end
+  
+  def animated?
+    false
+  end
+  
+  def full_frame_time
+    self.animation_frames * self.animation_speed
+  end
+  
+  alias jet3745_on_damage on_damage
+  def on_damage(*args, &block)
+    jet3745_on_damage(*args, &block)
+    if !dead?
+      @animation_row = guard? ? @animation_row : Jet::AnimatedBattlers::POSE_ROWS[:damage]
+      @animation_delay = self.full_frame_time
+    end
+  end
+  
+  def pose_state?
+    states.each {|a|
+      return true unless a.id == 1 || !(a.note =~ /<anim[ ]*no[ ]*pose>/i).nil?
+    }
+    return true if self.mhp / self.hp.to_f >= Jet::AnimatedBattlers::CRIT_PERC
+    return false
+  end
+  
+  def state_row
+    sort_states
+    states.each {|a|
+      if !(a.note =~ /<anim[ ]*row[ ]*(\:|=)[ ]*(\d+)>/i).nil?
+        return $2.to_i
+      end
+    }
+    return Jet::AnimatedBattlers::POSE_ROWS[:state]
+  end
+  
+  def battle_sprite
+    return nil unless SceneManager.scene_is?(Scene_Battle)
+    SceneManager.scene.spriteset.battler_sprites.each {|a|
+      return a if a.battler == self
+    }
+    return nil
+  end
+  
+  def anim_reset
+    @animation_row = Jet::AnimatedBattlers::POSE_ROWS[:idle]
+    @animation_delay = 0
+    @animated = nil
+    @anim_rows = nil
+    @anim_speed = nil
+    @anim_frames = nil
+    @anim_bitmap = nil
+  end
+end
+
+class << BattleManager
+  
+  alias jet8335_battle_start battle_start
+  def battle_start(*args, &block)
+    ($game_party.alive_members + $game_troop.alive_members).each {|a|
+      a.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:begin]
+      a.animation_delay = a.full_frame_time
+    }
+    jet8335_battle_start(*args, &block)
+  end
+  
+  alias jet2834_process_victory process_victory
+  def process_victory(*args, &block)
+    $game_party.alive_members.each {|a|
+      a.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:victory]
+      a.animation_delay = -1
+    }
+    jet2834_process_victory(*args, &block)
+  end
+  
+  alias jet3745_process_defeat process_defeat
+  def process_defeat(*args, &block)
+    $game_troop.alive_members.each {|a|
+      a.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:victory]
+      a.animation_delay = -1
+    }
+    jet3745_process_defeat(*args, &block)
+  end
+end
+
+%w[enemy actor].each {|a|
+  aStr = %Q{
+
+    class Game_#{a.capitalize}
+      
+      def animated?
+        @animated ||= (
+        note = !(/<anim[ ]*battler[ ]*(\\:|=)[ ]*(.+)>/i =~ #{a}.note).nil?
+        name = self.battler_name + Jet::AnimatedBattlers::ANIM_SUFFIX
+        graph = (!Cache.battler(name, self.battler_hue).nil? rescue false)
+        note || graph)
+      end
+      
+      def animation_rows
+        @anim_rows ||= (
+        if /<anim[ ]*rows[ ]*(\\:|=)[ ]*(\\d+)/i =~ #{a}.note
+          $2.to_i
+        else
+          Jet::AnimatedBattlers::ANIMATION_ROWS
+        end)
+      end
+      
+      def animation_speed
+        @anim_speed ||= (
+        if /<anim[ ]*speed[ ]*(\\:|=)[ ]*(\\d+)/i =~ #{a}.note
+          $2.to_i
+        else
+          Jet::AnimatedBattlers::ROW_CONFIG[self.animation_bitmap][@animation_row][1]
+        end)
+      end
+      
+      def animation_frames
+        @anim_frames ||= (
+        if /<anim[ ]*frames[ ]*(\\:|=)[ ]*(\\d+)/i =~ #{a}.note
+          $2.to_i
+        else
+          Jet::AnimatedBattlers::ROW_CONFIG[self.animation_bitmap][@animation_row][0]
+        end)
+      end
+      
+      def animation_bitmap_name
+        @anim_bitmap ||= (
+        begin
+          self.#{a}.note.match(/<anim[ ]*battler[ ]*(\\:|=)[ ]*(.+)>/i)[2]
+        rescue
+          self.battler_name + Jet::AnimatedBattlers::ANIM_SUFFIX
+        end)
+      end
+      
+      def animation_bitmap
+        actor_bitmap = self.animation_bitmap_name
+        #{ 
+          if a == "actor"
+            "class_suffix = (self.class.note.match(
+              /<anim[ ]*suffix[ ]*(\:|=)[ ]*(.+)>/i)[2] rescue '')"
+          else
+            "class_suffix = ''"
+          end
+        }
+        actor_bitmap + (class_suffix || "")
+      end
+    end
+  }
+  eval(aStr)
+}
+
+class Sprite_Battler
+  
+  attr_reader :animated
+  attr_accessor :anim_pause
+  
+  alias jet2734_initialize initialize
+  def initialize(viewport, battler = nil)
+    @animated = (!battler.nil? && battler.animated?) ? true : false
+    jet2734_initialize(viewport, battler)
+  end
+  
+  def battler=(new_battler)
+    @animated = (!new_battler.nil? && new_battler.animated?) ? true : false
+    @battler = new_battler
+  end
+  
+  alias jet8234_update update
+  def update(*args, &block)
+    @animated = (!@battler.nil? && @battler.animated?) ? true : false
+    @animated = false if $game_switches[Jet::AnimatedBattlers::TURN_OFF]
+    @animated ? (super; animated_update) : jet8234_update(*args, &block)
+  end
+  
+  def animated_update
+    if @old_battler != @battler
+      self.bitmap = Cache.battler(@battler.animation_bitmap, @battler.battler_hue)
+      @old_battler = @battler
+      @use_sprite = true
+      init_visibility
+      if @battler.enemy?
+        self.mirror = Jet::AnimatedBattlers::FLIP_ENEMIES
+        if /<anim[ ]*flip>/i =~ @battler.enemy.note
+          self.mirror = !self.mirror
+        end
+      elsif @battler.actor?
+        self.mirror = !(/<anim[ ]*flip>/i =~ @battler.actor.note).nil?
+      end
+    end
+    #------------------------
+    update_origin
+    update_position unless @in_anim_move
+    setup_new_effect
+    setup_new_animation
+    update_effect
+    update_battler_pose
+    #------------------------
+    width = self.bitmap.width
+    height = self.bitmap.height
+    if @anim_row != @battler.animation_row
+      @anim_frame = 0
+      @frame_count = 0
+    end
+    @anim_row = @battler.animation_row
+    width = self.bitmap.width / @battler.animation_frames
+    height = self.bitmap.height / @battler.animation_rows
+    x = @anim_frame * width
+    y = @battler.animation_row * height
+    self.src_rect.set(x, y, width, height)
+    @frame_count += 1
+    @anim_pause ||= false
+    if @frame_count >= @battler.animation_speed
+      @anim_frame += 1
+      @frame_count = 0
+      if @anim_frame >= @battler.animation_frames
+        @anim_frame = @anim_pause ? (@battler.animation_frames - 1) : 0
+      end
+    end
+  end
+  
+  def update_battler_pose
+    if @battler.animation_delay == -1
+      return
+    end
+    if @battler.animation_delay > 0
+      @battler.animation_delay -= 1
+      return
+    end
+    if @battler.dead?
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:dead]
+    elsif @battler.guard?
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:guard]
+    elsif @battler.pose_state?
+      @battler.animation_row = @battler.state_row
+    else
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:idle]
+    end
+  end
+  
+  alias jet7345_update_origin update_origin
+  def update_origin(*args, &block)
+    if @animated
+      self.ox = @battler.enemy? ? self.src_rect.width / 2 : 0
+      self.oy = @battler.enemy? ? self.src_rect.height / 2 : 0
+    else
+      jet7345_update_origin(*args, &block)
+    end
+  end
+  
+  alias jet2734_revert_to_normal revert_to_normal
+  def revert_to_normal(*args, &block)
+    jet2734_revert_to_normal(*args, &block)
+    if @animated
+      self.ox = @battler.enemy? ? self.src_rect.width / 2 : 0
+      self.oy = @battler.enemy? ? self.src_rect.height / 2 : 0
+    end
+  end
+  
+  alias jet8344_start_effect start_effect
+  def start_effect(effect)
+    return if effect == :collapse && @animated
+    jet8344_start_effect(effect)
+  end
+  
+  def anim_move_to(target)
+    self.z = 101
+    return unless Jet::AnimatedBattlers::MOVE_TO_TARGET
+    min_x = target.x - target.src_rect.width / 2 + self.src_rect.width / 2
+    min_x -= self.src_rect.width / 3
+    max_x = target.x + target.src_rect.width / 2 - self.src_rect.width / 2
+    max_x += self.src_rect.width / 3
+    @orig_x ||= self.x
+    @orig_y ||= self.y
+    if self.x > min_x && @orig_x > min_x
+      x = min_x
+    elsif self.x < max_x && @orig_x < min_x
+      x = max_x
+    else
+      x = self.x
+    end
+    if self.y > target.y + target.src_rect.height / 2
+      y = target.y + target.src_rect.height / 2
+    elsif self.y < target.y - target.src_rect.height / 2
+      y = target.y - target.src_rect.height / 2
+    else
+      y = self.y
+    end
+    if x > self.x
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:retreat]
+    else
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:advance]
+    end
+    @battler.animation_delay = -1
+    @in_anim_move = true
+    do_tween(x, y, Tween::Linear, Jet::AnimatedBattlers::TIME_TO_MOVE)
+    until @tween.nil?
+      [SceneManager.scene.spriteset, Graphics].each {|a| a.update }
+    end
+  end
+  
+  def anim_return
+    self.z = 100
+    return unless Jet::AnimatedBattlers::MOVE_TO_TARGET
+    @orig_x = nil
+    @orig_y = nil
+    x = @battler.screen_x
+    y = @battler.screen_y
+    if x >= self.x
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:retreat]
+    else
+      @battler.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:advance]
+    end
+    @battler.animation_delay = -1
+    do_tween(x, y, Tween::Linear, Jet::AnimatedBattlers::TIME_TO_MOVE)
+    until @tween.nil?
+      [SceneManager.scene.spriteset, Graphics].each {|a| a.update }
+    end
+    @in_anim_move = false
+    @battler.animation_delay = 0
+  end
+end
+
+class Scene_Battle
+  
+  attr_reader :spriteset
+  
+  alias jet3845_show_normal_animation show_normal_animation
+  def show_normal_animation(targets, animation_id, mirror = false)
+    if !$game_switches[Jet::AnimatedBattlers::TURN_OFF]
+      animation = $data_animations[animation_id]
+      if animation
+        did_to_screen = false
+        targets.each do |target|
+          next if did_to_screen
+          @subject.animation_delay = 0
+          @subject.battle_sprite.anim_pause = false
+          obj = @subject.current_action.item
+          if @subject.battle_sprite.animated
+            if obj.physical?
+              @subject.battle_sprite.anim_move_to(target.battle_sprite)
+            end
+          end
+          target.animation_id = animation_id
+          target.animation_mirror = mirror
+          did_to_screen = animation.to_screen?
+          case obj
+          when RPG::Item
+            @subject.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:item]
+          when RPG::Skill
+            if obj.id == @subject.attack_skill_id
+              @subject.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:attack]
+            elsif obj.magical?
+              @subject.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:magic]
+            elsif obj.id != @subject.guard_skill_id
+              @subject.animation_row = Jet::AnimatedBattlers::POSE_ROWS[:skill]
+            end
+          end
+          @subject.animation_delay = -1
+          @subject.battle_sprite.anim_pause = true
+          abs_wait_short unless animation.to_screen?
+        end
+        abs_wait_short if animation.to_screen?
+      end
+    else
+      jet3845_show_normal_animation(*args, &block)
+    end
+  end
+  
+  alias jet3745_terminate terminate
+  def terminate(*args, &block)
+    jet3745_terminate(*args, &block)
+    $game_party.members.each {|a| a.anim_reset }
+  end
+  
+  alias jet3434_use_item use_item
+  def use_item(*args, &block)
+    jet3434_use_item(*args, &block)
+    @subject.animation_delay = 0
+    @subject.battle_sprite.anim_pause = false
+    if @subject.battle_sprite.animated
+      if @subject.current_action.item.physical?
+        @subject.battle_sprite.anim_return
+      end
+    end
+  end
+  
+  alias jet3345_show_attack_animation show_attack_animation
+  def show_attack_animation(targets)
+    if !$game_switches[Jet::AnimatedBattlers::TURN_OFF]
+      show_normal_animation(targets, @subject.atk_animation_id1, false)
+      show_normal_animation(targets, @subject.atk_animation_id2, true)
+    else
+      jet3345_show_attack_animation(*args, &block)
+    end
+  end
+end
+
+class Sprite
+  
+  attr_reader :tween
+  
+  def calculate_delta
+    @this_frame = Time.now
+    @delta = ((@this_frame - @last_frame) * 1000.0).to_i / 1000.0
+    @last_frame = @this_frame
+  end
+  
+  def do_tween(new_x, new_y, style = Tween::Linear, time = 1)
+    @last_frame = Time.now
+    @tween = Tween.new([self.x.to_f, self.y.to_f], [new_x.to_f, new_y.to_f],
+      style, time)
+  end
+  
+  alias jet2724_update update unless $@
+  def update(*args, &block)
+    jet2724_update(*args, &block)
+    if !@tween.nil?
+      calculate_delta
+      @tween.update(@delta)
+      self.x, self.y = @tween.x, @tween.y
+      @tween = nil if @tween.done
+    end
+  end
+end
+    
+class Tween
+  attr_reader :done
+  attr_reader :easer
+  
+  def initialize(start, finish, easer, duration)
+    @start, @finish = start, finish
+    @easer, @duration = easer, duration
+    unless @start.is_a? Enumerable
+      @start = [@start]
+    end
+    unless @finish.is_a? Enumerable
+      @finish = [@finish]
+    end
+    @time = 0
+    @done = false
+  end
+  
+  def update(delta)
+    @time += delta
+    if @time > @duration
+      @time = @duration
+      @done = true
+    end
+  end
+  
+  def [](idx)
+    @easer.ease(
+      @time,
+      @start[idx],
+      (@finish[idx] - @start[idx]),
+      @duration
+    )
+  end
+  
+  def value; self[0]; end
+  def x; self[0]; end
+  def y; self[1]; end
+  def z; self[2]; end
+  
+  module Linear
+    def self.ease(t, st, ch, d)
+      ch * t / d + st
+    end
+  end
+end
+
